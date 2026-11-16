@@ -1,0 +1,2432 @@
+# Källa per Forever-recept ur Warcraft Wiki (warcraft.wiki.gg, CC BY-SA 4.0), hämtat 2026-11-21.
+# Format: yrkesid|recept|skill|NEW eller Old|källa. Läses av hamta-skillup.js.
+129|Linen Bandage|1|Old|Automatic
+129|Minor Healing Potion|1|NEW|Trainer
+129|First Aid Kit|20|NEW|Trainer
+129|Heavy Linen Bandage|40|Old|Trainer
+129|Lesser Healing Potion|55|NEW|Trainer
+129|Anti-Venom|80|Old|Trainer
+129|Wool Bandage|80|Old|Trainer
+129|Simple Poultice|90|NEW|Trainer
+129|Healing Potion|110|NEW|Trainer
+129|Heavy Wool Bandage|115|Old|Trainer
+129|Woolen Tourniquet|120|NEW|Trainer
+129|Strong Anti-Venom|130|Old|Drop
+129|Toxin Study|140|NEW|Drop
+129|Silk Bandage|150|Old|Trainer
+129|Clever Poultice|160|NEW|Drop
+129|Greater Healing Potion|175|NEW|Drop
+129|Heavy Silk Bandage|180|Old|Vendor
+129|Mageweave Bandage|210|Old|Vendor
+129|Leather Tourniquet|220|NEW|?
+129|Superior Poultice|225|NEW|?
+129|Superior Healing Potion|230|NEW|?
+129|Potent Anti-Venom|230|NEW|Drop
+129|Heavy Mageweave Bandage|240|Old|Trainer
+129|Runecloth Bandage|260|Old|Trainer
+129|Surgical Tourniquet|280|NEW|?
+129|Major Healing Potion|290|NEW|Vendor
+129|Heavy Runecloth Bandage|290|Old|Trainer
+129|Powerful Poultice|295|NEW|?
+129|Plague Doctor's Laboratory|300|NEW|?
+129|Powerful Anti-Venom|300|Old|Vendor
+129|Dense Runecloth Bandage|300|NEW|Vendor
+164|Copper Rod|1|NEW|?
+164|Rough Copper Vest|1|Old|?
+164|Rough Sharpening Stone|1|Old|?
+164|Rough Weightstone|15|Old|?
+164|Copper Chain Pants|15|Old|Trainer
+164|Copper Mace|15|Old|Trainer
+164|Copper Bracers|20|Old|?
+164|Sharpening Wheel|20|NEW|Trainer
+164|Copper Axe|20|Old|Trainer
+164|Copper Chain Boots|20|Old|Trainer
+164|Rough Grinding Stone|25|Old|Trainer
+164|Copper Claymore|25|Old|Trainer
+164|Copper Dagger|25|Old|Trainer
+164|Copper Shortsword|25|Old|Trainer
+164|Copper Battle Axe|30|Old|Trainer
+164|Copper Chain Belt|30|Old|Trainer
+164|Copper Chain Vest|30|Old|Drop
+164|Gemmed Copper Boots|35|NEW|Trainer
+164|Glowing Copper Boots|35|NEW|Trainer
+164|Strange Copper Boots|35|NEW|Trainer
+164|Gemmed Copper Gauntlets|35|Old|Drop
+164|Runed Copper Gauntlets|35|Old|Trainer
+164|Runed Copper Pants|35|Old|Trainer
+164|Coarse Sharpening Stone|40|Old|Trainer
+164|Coarse Weightstone|40|Old|Trainer
+164|Heavy Copper Maul|40|Old|Trainer
+164|Acolyte's Chain Belt|45|NEW|Vendor
+164|Crusader's Chain Belt|45|NEW|Vendor
+164|Guard's Chain Belt|45|NEW|Vendor
+164|Protector's Chain Belt|45|NEW|Vendor
+164|Runed Copper Belt|45|Old|Trainer
+164|Thick War Axe|45|Old|Trainer
+164|Veteran's Chain Belt|45|NEW|Vendor
+164|Coarse Grinding Stone|50|Old|Trainer
+164|Azure Skyforged Chain|50|NEW|Vendor
+164|Azure Skyforged Wristguards|50|NEW|Vendor
+164|Cloudy Skyforged Chain|50|NEW|Vendor
+164|Cloudy Skyforged Wristguards|50|NEW|Vendor
+164|Rough Copper Chain Boots|50|NEW|Quest
+164|Azure Skyforged Gauntlets|55|NEW|Vendor
+164|Azure Skyforged Greaves|55|NEW|Vendor
+164|Cloudy Skyforged Gauntlets|55|NEW|Vendor
+164|Cloudy Skyforged Greaves|55|NEW|Vendor
+164|Azure Skyforged Chainmail|60|NEW|Vendor
+164|Azure Skyforged Legguards|60|NEW|Vendor
+164|Cloudy Skyforged Chainmail|60|NEW|Vendor
+164|Cloudy Skyforged Legguards|60|NEW|Vendor
+164|Runed Copper Bracers|65|Old|Trainer
+164|Rough Bronze Boots|70|Old|Trainer
+164|Heavy Copper Broadsword|70|Old|Trainer
+164|Silver Skeleton Key|75|Old|Trainer
+164|Silver Rod|75|Old|Trainer
+164|Guard's Chain Shirt|80|NEW|Drop
+164|Runed Copper Breastplate|80|Old|Drop
+164|Acolyte's Gloves|80|NEW|Drop
+164|Big Bronze Knife|80|Old|Trainer
+164|Brass Knuckles|80|NEW|Drop
+164|Crusader's Gloves|80|NEW|Drop
+164|Guard's Gloves|80|NEW|Drop
+164|Protector's Gloves|80|NEW|Drop
+164|Veteran's Gloves|80|NEW|Drop
+164|Rough Bronze Cuirass|80|Old|Trainer
+164|Rough Bronze Leggings|80|Old|Trainer
+164|Acolyte's Chain Shirt|85|NEW|?
+164|Crusader's Chain Shirt|85|NEW|?
+164|Protector's Chain Shirt|85|NEW|?
+164|Veteran's Chain Shirt|85|NEW|?
+164|Acolyte's Boots|85|NEW|Vendor
+164|Bronze Mace|85|Old|Trainer
+164|Crusader's Boots|85|NEW|Vendor
+164|Guard's Boots|85|NEW|Vendor
+164|Pearl-handled Dagger|85|Old|Trainer
+164|Protector's Boots|85|NEW|Vendor
+164|Rough Bronze Shoulders|85|Old|Trainer
+164|Veteran's Boots|85|NEW|Vendor
+164|Bronze Axe|90|Old|Trainer
+164|Acolyte's Silvered Chain Helm|95|NEW|Drop
+164|Bronze Dory|95|NEW|Drop
+164|Bronze Shortsword|95|Old|Trainer
+164|Crusader's Silvered Chain Helm|95|NEW|Drop
+164|Guard's Silvered Chain Helm|95|NEW|Drop
+164|Patterned Bronze Bracers|95|Old|Trainer
+164|Protector's Silvered Chain Helm|95|NEW|Drop
+164|Veteran's Silvered Chain Helm|95|NEW|Drop
+164|Acolyte's Chain Leggings|100|NEW|?
+164|Crusader's Chain Leggings|100|NEW|?
+164|Guard's Chain Leggings|100|NEW|?
+164|Protector's Chain Leggings|100|NEW|?
+164|Veteran's Chain Leggings|100|NEW|?
+164|Blackfathom Sharpening Stone|100|Old|?
+164|Heavy Sharpening Stone|100|Old|Trainer
+164|Heavy Weightstone|100|Old|Trainer
+164|Heavy Grinding Stone|100|Old|Trainer
+164|Ironforge Breastplate|100|Old|Quest
+164|Sterling Silver Boots|100|NEW|Drop
+164|Bronze Warhammer|100|Old|Trainer
+164|Bronze Greatsword|105|Old|Trainer
+164|Heavy Bronze Mace|105|Old|Trainer
+164|Silvered Bronze Boots|105|Old|Trainer
+164|Sterling Silver Gauntlet|105|NEW|Drop
+164|Sterling Silver Leggings|105|NEW|Drop
+164|Cracked Blacksmith Hammer|110|NEW|?
+164|Acolyte's Silvered Chain Shirt|110|NEW|Vendor
+164|Bronze Battle Axe|110|Old|Trainer
+164|Crusader's Silvered Chain Shirt|110|NEW|Vendor
+164|Guard's Silvered Chain Shirt|110|NEW|Vendor
+164|Protector's Silvered Chain Shirt|110|NEW|Vendor
+164|Silvered Bronze Gauntlets|110|Old|Trainer
+164|Sterling Silver Shoulders|110|NEW|Drop
+164|Veteran's Silvered Chain Shirt|110|NEW|Vendor
+164|Shining Silver Breastplate|120|Old|Trainer
+164|Iron Buckle|125|Old|Trainer
+164|Golden Skeleton Key|125|Old|Trainer
+164|Golden Rod|125|Old|Trainer
+164|Deadly Bronze Poniard|125|Old|Drop
+164|Silvered Bronze Shoulders|125|Old|Drop
+164|Acolyte's Silvered Chain Leggings|125|NEW|Drop
+164|Crusader's Silvered Chain Leggings|125|NEW|Drop
+164|Guard's Silvered Chain Leggings|125|NEW|Drop
+164|Protector's Silvered Chain Leggings|125|NEW|Drop
+164|Sterling Silver Breastplate|125|NEW|Drop
+164|Veteran's Silvered Chain Leggings|125|NEW|Drop
+164|Acolyte's Chain Helm|130|NEW|?
+164|Crusader's Chain Helm|130|NEW|?
+164|Guard's Chain Helm|130|NEW|?
+164|Protector's Chain Helm|130|NEW|?
+164|Veteran's Chain Helm|130|NEW|?
+164|Silvered Bronze Breastplate|130|Old|Drop
+164|Green Iron Leggings|130|Old|Trainer
+164|Iron Fists|130|NEW|Drop
+164|Anvil (Camping)|140|NEW|Drop
+164|Iridescent Hammer|140|Old|Drop
+164|Green Iron Bracers|140|Old|Trainer
+164|Green Iron Boots|145|Old|Drop
+164|Mighty Iron Hammer|145|Old|Drop
+164|Green Iron Helm|145|Old|Trainer
+164|Hard Gold Cuirass|145|NEW|Drop
+164|Mantle of the Second War|150|Old|Vendor
+164|Justicar's Belt|150|NEW|Trainer
+164|Officer's Belt|150|NEW|Trainer
+164|Prefect's Belt|150|NEW|Trainer
+164|Sentinel's Belt|150|NEW|Trainer
+164|Warder's Belt|150|NEW|Trainer
+164|Green Iron Gauntlets|150|Old|Drop
+164|Iron Shield Spike|150|Old|Drop
+164|Hard Gold Boots|150|NEW|Drop
+164|Silvered Bronze Leggings|155|Old|Drop
+164|Solid Iron Maul|155|Old|Vendor
+164|Glinting Steel Dagger|155|Old|Trainer
+164|Green Iron Hauberk|155|Old|Trainer
+164|Barbaric Iron Breastplate|160|Old|Quest
+164|Barbaric Iron Shoulders|160|Old|Quest
+164|Green Iron Shoulders|160|Old|Drop
+164|Hardened Iron Shortsword|160|Old|Vendor
+164|Golden Scale Bracers|160|Old|Trainer
+164|Hard Gold Bracers|160|NEW|?
+164|Steel Spear|160|NEW|Drop
+164|Iron Counterweight|165|Old|Drop
+164|Hard Gold Leggings|165|NEW|?
+164|Iron Morningstar|165|NEW|Quest
+164|Golden Iron Destroyer|170|Old|Drop
+164|Golden Scale Leggings|170|Old|Drop
+164|Golden Scale Leggings|170|Old|Drop
+164|Hard Gold Coif|170|NEW|Drop
+164|Shifting Silver Breastplate|175|Old|?
+164|Solid Grinding Stone|175|Old|Trainer
+164|Solid Sharpening Stone|175|Old|Trainer
+164|Solid Weightstone|175|Old|Trainer
+164|Truesilver Skeleton Key|175|Old|Trainer
+164|Barbaric Iron Helm|175|Old|Quest
+164|Golden Scale Shoulders|175|Old|Drop
+164|Jade Serpentblade|175|Old|Drop
+164|Truesilver Rod|175|Old|Trainer
+164|Azure Skyforged Helm|175|NEW|Vendor
+164|Azure Skyforged Pauldrons|175|NEW|Vendor
+164|Cloudy Skyforged Helm|175|NEW|Vendor
+164|Cloudy Skyforged Pauldrons|175|NEW|Vendor
+164|Golden Scale Shoulders|175|Old|Drop
+164|Hard Gold Gauntlet|175|NEW|Quest
+164|Hard Gold Pauldrons|175|NEW|Drop
+164|Justicar's Gauntlet|175|NEW|Vendor
+164|Officer's Gauntlet|175|NEW|Vendor
+164|Prefect's Gauntlet|175|NEW|Vendor
+164|Sentinel's Gauntlet|175|NEW|Vendor
+164|Steel Breastplate|175|Old|Trainer
+164|Warder's Gauntlet|175|NEW|Vendor
+164|Barbaric Iron Boots|180|Old|Quest
+164|Moonsteel Broadsword|180|Old|Vendor
+164|Heavy Mithril Gauntlet|180|Old|Trainer
+164|Heavy Mithril Shoulder|180|Old|Trainer
+164|Mithril Shortsword|180|NEW|Drop
+164|Moonsteel Broadsword|180|Old|Vendor
+164|Barbaric Iron Gloves|185|Old|Quest
+164|Massive Iron Axe|185|Old|Vendor
+164|Polished Steel Boots|185|Old|Drop
+164|Mithril Plate Pants|185|Old|Trainer
+164|Heavy Mithril Axe|185|Old|Trainer
+164|Edge of Winter|190|Old|Drop
+164|Golden Scale Coif|190|Old|Vendor
+164|Searing Golden Blade|190|Old|Drop
+164|Steel Weapon Chain|190|Old|Drop
+164|Mithril Warhammer|190|NEW|Vendor
+164|Steel Plate Helm|190|Old|Trainer
+164|Golden Scale Coif|190|Old|Vendor
+164|Golden Scale Cuirass|195|Old|Drop
+164|Mithril Blacksmith Hammer|195|NEW|?
+164|Mithril Claws|195|NEW|Drop
+164|Mithril Claymore|195|NEW|?
+164|Ornate Mithril Pants|195|Old|Quest
+164|Shining Mithril Breastplate|195|NEW|?
+164|Shining Mithril Pauldrons|195|NEW|?
+164|Golden Scale Cuirass|195|Old|Drop
+164|Low-Background Truesilver Plates|200|Old|Vendor
+164|Frost Tiger Blade|200|Old|Drop
+164|Golden Scale Boots|200|Old|Drop
+164|Inlaid Mithril Cylinder|200|Old|Crafted
+164|Shadow Crescent Axe|200|Old|Drop
+164|Justicar's Boots|200|NEW|?
+164|Officer's Boots|200|NEW|?
+164|Prefect's Boots|200|NEW|?
+164|Sentinel's Boots|200|NEW|?
+164|Warder's Boots|200|NEW|?
+164|Shining Mithril Boots|200|NEW|Drop
+164|Truesilver Gauntlets|200|Old|Trainer
+164|Golden Scale Boots|200|Old|Drop
+164|Golden Scale Gauntlets|205|Old|Quest
+164|Golden Scale Gauntlets|205|Old|?
+164|Heavy Mithril Breastplate|205|Old|Trainer
+164|Mithril Coif|205|Old|Trainer
+164|Big Black Mace|205|Old|Trainer
+164|Heavy Mithril Pants|210|Old|Drop
+164|Heavy Mithril Boots|210|Old|Trainer
+164|Justicar's Pauldrons|210|NEW|Vendor
+164|Mithril Stiletto|210|NEW|Drop
+164|Officer's Pauldrons|210|NEW|Vendor
+164|Prefect's Pauldrons|210|NEW|Vendor
+164|Sentinel's Pauldrons|210|NEW|Vendor
+164|Warder's Pauldrons|210|NEW|Vendor
+164|Mithril Plate Bracers|215|Old|Vendor
+164|Mithril Shield Spike|215|Old|Drop
+164|Charged Mithril Battleaxe|215|NEW|?
+164|Ornate Mithril Gloves|220|Old|Quest
+164|Blue Glittering Axe|220|Old|Drop
+164|Shining Mithril Gauntlet|220|NEW|?
+164|Shining Mithril Pants|220|NEW|?
+164|Truesilver Breastplate|220|Old|Trainer
+164|Ornate Mithril Shoulders|225|Old|Quest
+164|Reflective Truesilver Braincage|225|Old|Vendor
+164|Tempered Interference-Negating Helmet|225|Old|Vendor
+164|Wicked Mithril Blade|225|Old|Drop
+164|Dense Grinding Stone|225|Old|Trainer
+164|Dense Sharpening Stone|225|Old|Trainer
+164|Dense Weightstone|225|Old|Trainer
+164|Justicar's Wristguards|225|NEW|Vendor
+164|Officer's Wristguards|225|NEW|Vendor
+164|Prefect's Wristguards|225|NEW|Vendor
+164|Sentinel's Wristguards|225|NEW|Vendor
+164|Warder's Wristguards|225|NEW|Vendor
+164|Orcish War Leggings|230|Old|?
+164|Mithril Plate Shoulders|235|Old|Drop
+164|Mithril Spurs|235|Old|Drop
+164|Shining Mithril Helm|235|NEW|?
+164|The Shatterer|235|Old|?
+164|Ornate Mithril Breastplate|240|Old|?
+164|Dazzling Mithril Rapier|240|Old|Drop
+164|Blessed Plate Boots|240|NEW|?
+164|Blessed Plate Pauldrons|240|NEW|?
+164|Justicar's Sabatons|240|NEW|Vendor
+164|Officer's Sabatons|240|NEW|Vendor
+164|Prefect's Sabatons|240|NEW|Vendor
+164|Sentinel's Sabatons|240|NEW|Vendor
+164|Warder's Sabatons|240|NEW|Vendor
+164|Heavy Mithril Helm|245|Old|Drop
+164|Ornate Mithril Boots|245|Old|?
+164|Ornate Mithril Helm|245|Old|?
+164|Phantom Blade|245|Old|?
+164|Runed Mithril Hammer|245|Old|Drop
+164|Blessed Plate Gauntlet|245|NEW|?
+164|Baleful Pauldrons|250|Old|?
+164|Fearmonger's Shoulderguards|250|Old|?
+164|Shoulderplates of Dread|250|Old|?
+164|Thorium Armor|250|Old|Drop
+164|Thorium Belt|250|Old|Drop
+164|Arcanite Rod|250|Old|Trainer
+164|Arcanite Skeleton Key|250|Old|Trainer
+164|Blight|250|Old|?
+164|Justicar's Gloves|250|NEW|?
+164|Officer's Gloves|250|NEW|?
+164|Prefect's Gloves|250|NEW|?
+164|Sentinel's Gloves|250|NEW|?
+164|Warder's Gloves|250|NEW|?
+164|Scarlet Soldier's Protectors|250|Old|Drop
+164|Scarlet Soldier's Waistguard|250|Old|Drop
+164|Justicar's Waistguard|250|NEW|Vendor
+164|Officer's Waistguard|250|NEW|Vendor
+164|Sentinel's Waistguard|250|NEW|Vendor
+164|Thorium Cestus|250|NEW|Vendor
+164|Thorium Greatmace|250|NEW|Vendor
+164|Warder's Waistguard|250|NEW|Vendor
+164|Thorium Bracers|255|Old|Drop
+164|Ebon Shiv|255|Old|Vendor
+164|Blessed Plate Bracers|255|NEW|?
+164|Imperial Plate Gauntlets|255|NEW|?
+164|Radiant Belt|260|Old|Drop
+164|Truesilver Champion|260|Old|?
+164|Scarlet Soldier's Grips|260|Old|Drop
+164|Scarlet Soldier's Stompers|260|Old|Drop
+164|Thorium Poleaxe|260|NEW|?
+164|Dark Iron Pulverizer|265|Old|Drop
+164|Imperial Plate Belt|265|Old|Quest
+164|Imperial Plate Shoulders|265|Old|Quest
+164|Dark Iron Mail|270|Old|Drop
+164|Imperial Plate Bracers|270|Old|Quest
+164|Radiant Breastplate|270|Old|Drop
+164|Prefect's Waistguard|270|NEW|Vendor
+164|Arcanite Blacksmith Hammer|270|NEW|?
+164|Scarlet Soldier's Legplates|270|Old|Drop
+164|Blessed Plate Belt|270|NEW|?
+164|Blessed Plate Leggings|270|NEW|?
+164|Bold Dirk|270|NEW|Vendor
+164|Dark Iron Sunderer|275|Old|Drop
+164|Thorium Shield Spike|275|Old|Drop
+164|Dawn's Edge|275|Old|Quest
+164|Ornate Thorium Handaxe|275|Old|Vendor
+164|Blessed Plate Helm|275|NEW|?
+164|Dark Iron Shoulders|280|Old|Drop
+164|Thorium Boots|280|Old|Drop
+164|Thorium Helm|280|Old|Drop
+164|Blazing Rapier|280|Old|Quest
+164|Enchanted Battlehammer|280|Old|Quest
+164|Huge Thorium Battleaxe|280|Old|Vendor
+164|Scarlet Soldier's Chestplate|280|Old|Drop
+164|Scarlet Soldier's Helmet|280|Old|Drop
+164|Scarlet Soldier's Spaulders|280|Old|Drop
+164|Blessed Plate Chest|280|NEW|?
+164|Finely-Enchanted Battlehammer|280|Old|?
+164|Dark Iron Plate|285|Old|Drop
+164|Demon Forged Breastplate|285|Old|Quest
+164|Radiant Gloves|285|Old|Drop
+164|Serenity|285|Old|Drop
+164|Clutchlord's Grips|285|NEW|Vendor
+164|Goregasher Grips|285|NEW|Vendor
+164|Tempered Dark Iron Plate|285|Old|Drop
+164|Dawnbringer Shoulders|290|Old|Vendor
+164|Fiery Plate Gauntlets|290|Old|Quest
+164|Girdle of the Dawn|290|Old|Vendor
+164|Radiant Boots|290|Old|Drop
+164|Corruption|290|Old|Drop
+164|Volcanic Hammer|290|Old|Drop
+164|Clutchlord's Support|290|NEW|Vendor
+164|Goregasher Support|290|NEW|Vendor
+164|Fiery Plate Gauntlets of the Hidden Technique|290|Old|?
+164|Dark Iron Bracers|295|Old|Vendor
+164|Fiery Chain Girdle|295|Old|Vendor
+164|Imperial Plate Boots|295|Old|Quest
+164|Imperial Plate Helm|295|Old|Quest
+164|Radiant Circlet|295|Old|Drop
+164|Clutchlord's Stompers|295|NEW|Vendor
+164|Goregasher Stompers|295|NEW|Vendor
+164|Tempest Gauntlets|295|Old|Drop
+164|Elemental Sharpening Stone|300|Old|Drop
+164|Annihilator|300|Old|Drop
+164|Blackguard|300|Old|Vendor
+164|Ebon Hand|300|Old|Vendor
+164|Imperial Plate Chest|300|Old|Quest
+164|Nightfall|300|Old|Vendor
+164|Runic Plate Boots|300|Old|Drop
+164|Runic Plate Shoulders|300|Old|Drop
+164|Thorium Leggings|300|Old|Drop
+164|Master Forge|300|NEW|?
+164|Imperial Plate Leggings|300|Old|Quest
+164|Radiant Leggings|300|Old|Drop
+164|Runic Plate Helm|300|Old|Drop
+164|Runic Breastplate|300|Old|Drop
+164|Runic Plate Leggings|300|Old|Drop
+164|Azerothium Legplates|300|NEW|?
+164|Depleted Thorium Sabatons|300|NEW|?
+164|Evergreen Shield|300|NEW|?
+164|Forest Defender's Axe|300|NEW|?
+164|Greenhammer|300|NEW|?
+164|Heavy Thorium Gauntlets|300|NEW|?
+164|Ironwood Blade|300|NEW|?
+164|Whitesoul Helm|300|Old|Drop
+164|Gauntlets of Glory|300|NEW|Vendor
+164|Greaves of Glory|300|NEW|Vendor
+164|Handguards of Glory|300|NEW|Vendor
+164|Justice Epaulets|300|NEW|Vendor
+164|Justice Gauntlets|300|NEW|Vendor
+164|Justice Gloves|300|NEW|Vendor
+164|Justice Greaves|300|NEW|Vendor
+164|Justice Handguards|300|NEW|Vendor
+164|Justice Leggings|300|NEW|Vendor
+164|Justice Legguards|300|NEW|Vendor
+164|Justice Legplates|300|NEW|Vendor
+164|Justice Pauldrons|300|NEW|Vendor
+164|Justice Sabatons|300|NEW|Vendor
+164|Justice Spaulders|300|NEW|Vendor
+164|Justice Treads|300|NEW|Vendor
+164|Legguards of Glory|300|NEW|Vendor
+164|Legplates of Glory|300|NEW|Vendor
+164|Pauldrons of Glory|300|NEW|Vendor
+164|Sabatons of Glory|300|NEW|Vendor
+164|Shoulders of Glory|300|NEW|Vendor
+164|Arcanite Champion|300|Old|Drop
+164|Arcanite Reaper|300|Old|Drop
+164|Bagh Nakh|300|NEW|?
+164|Black Amnesty|300|Old|Vendor
+164|Black Grasp of the Destroyer|300|Old|Drop
+164|Blackfury|300|Old|Vendor
+164|Bloodsoul Breastplate|300|Old|Vendor
+164|Bloodsoul Gauntlets|300|Old|Vendor
+164|Bloodsoul Shoulders|300|Old|Vendor
+164|Breastplate of Salvation|300|NEW|?
+164|Champion's Legplates|300|NEW|?
+164|Dark Iron Boots|300|Old|Vendor
+164|Dark Iron Destroyer|300|Old|Vendor
+164|Dark Iron Gauntlets|300|Old|Vendor
+164|Dark Iron Helm|300|Old|Vendor
+164|Dark Iron Leggings|300|Old|Vendor
+164|Dark Iron Reaver|300|Old|Vendor
+164|Darkrune Breastplate|300|Old|Drop
+164|Darkrune Gauntlets|300|Old|Drop
+164|Darkrune Helm|300|Old|Drop
+164|Darksoul Breastplate|300|Old|Vendor
+164|Darksoul Leggings|300|Old|Vendor
+164|Darksoul Shoulders|300|Old|Vendor
+164|Enchanted Thorium Breastplate|300|Old|Quest
+164|Enchanted Thorium Helm|300|Old|Quest
+164|Enchanted Thorium Leggings|300|Old|Quest
+164|Enriched Thorium Breastplate|300|NEW|Vendor
+164|Enriched Thorium Helm|300|NEW|Vendor
+164|Enriched Thorium Leggings|300|NEW|Vendor
+164|Fiery Chain Shoulders|300|Old|Vendor
+164|Frostguard|300|Old|Drop
+164|Gloves of the Dawn|300|Old|Vendor
+164|Hammer of the Titans|300|Old|Drop
+164|Hardened Frostguard|300|Old|Drop
+164|Heartseeker|300|Old|Drop
+164|Heavy Obsidian Belt|300|Old|?
+164|Icebane Bracers|300|Old|?
+164|Icebane Breastplate|300|Old|?
+164|Icebane Gauntlets|300|Old|?
+164|Invincible Mail|300|Old|Drop
+164|Ironvine Belt|300|Old|?
+164|Ironvine Breastplate|300|Old|?
+164|Ironvine Gloves|300|Old|?
+164|Jagged Obsidian Shield|300|Old|Vendor
+164|Legionite Glaive|300|NEW|Vendor
+164|Light Obsidian Belt|300|Old|?
+164|Lionheart Helm|300|Old|Drop
+164|Martyr's Legplates|300|NEW|?
+164|Masterwork Stormhammer|300|Old|Drop
+164|Obsidian Mail Tunic|300|Old|Vendor
+164|Persuader|300|Old|Drop
+164|Refined Arcanite Champion|300|Old|Drop
+164|Refined Arcanite Reaper|300|Old|Drop
+164|Sageblade|300|Old|Drop
+164|Sageblade of the Archmagus|300|Old|Drop
+164|Skyrider's Masterwork Stormhammer|300|Old|Drop
+164|Stalwart Helm|300|NEW|?
+164|Stormcarver|300|NEW|?
+164|Stronger-hold Gauntlets|300|Old|Drop
+164|Stronghold Gauntlets|300|Old|Drop
+164|Thick Obsidian Breastplate|300|Old|Drop
+164|Titanic Leggings|300|Old|Drop
+164|Warcrest of the Great Chief|300|Old|Drop
+164|Sulfuron Hammer|300|Old|Quest
+164|Sulfuron Hammer|300|Old|?
+164|Tranquility|310|Old|?
+164|Obsidian Grinding Stone|315|Old|?
+164|Desecration|315|Old|?
+164|Black Grasp of the Destroyer|320|Old|?
+164|Deadly Heartseeker|320|Old|?
+164|Dreamscale Visor|320|Old|?
+164|Heavy Obsidian Belt|320|Old|?
+164|Icebane Bracers|320|Old|?
+164|Icebane Breastplate|320|Old|?
+164|Icebane Gauntlets|320|Old|?
+164|Ironvine Belt|320|Old|?
+164|Ironvine Breastplate|320|Old|?
+164|Ironvine Gloves|320|Old|?
+164|Jagged Obsidian Shield|320|Old|?
+164|Light Obsidian Belt|320|Old|?
+164|Obsidian Champion|320|Old|?
+164|Obsidian Defender|320|Old|?
+164|Obsidian Destroyer|320|Old|?
+164|Obsidian Heartseeker|320|Old|?
+164|Obsidian Mail Tunic|320|Old|?
+164|Obsidian Reaver|320|Old|?
+164|Obsidian Sageblade|320|Old|?
+164|Obsidian Stormhammer|320|Old|?
+164|Razorspike Battleplate|320|Old|?
+164|Razorspike Headcage|320|Old|?
+164|Razorspike Shoulderplate|320|Old|?
+164|Refined Hammer of the Titans|320|Old|?
+164|Thick Obsidian Breastplate|320|Old|?
+165|Light Leather|1|Old|Automatic
+165|Light Armor Kit|1|Old|Automatic
+165|Handstitched Leather Boots|1|Old|Automatic
+165|Handstitched Leather Bracers|1|Old|Automatic
+165|Handstitched Leather Cloak|1|Old|Automatic
+165|Handstitched Leather Vest|1|Old|Automatic
+165|Handstitched Leather Pants|15|Old|Trainer
+165|Camp Tent|20|NEW|Quest
+165|Handstitched Leather Belt|25|Old|Trainer
+165|Light Leather Quiver|25|Old|Trainer
+165|Small Leather Ammo Pouch|25|Old|Trainer
+165|Light Leather Reagent Bag|30|NEW|Quest
+165|Cured Light Hide|30|Old|Trainer
+165|Rugged Leather Pants|30|Old|Drop
+165|Black Whelp Slippers|35|NEW|Vendor
+165|Dark Leather Boots|35|NEW|Vendor
+165|Moonglow Boots|35|NEW|Vendor
+165|Murloc Scale Shoes|35|NEW|Vendor
+165|Embossed Leather Vest|35|Old|Trainer
+165|Kodo Hide Bag|35|Old|Quest
+165|Embossed Leather Cloak|40|Old|Trainer
+165|Embossed Leather Gloves|40|Old|Trainer
+165|White Leather Jerkin|40|Old|Drop
+165|Light Leather Bracers|45|Old|Trainer
+165|Azure Gustwoven Belt|50|NEW|Vendor
+165|Azure Gustwoven Bracers|50|NEW|Vendor
+165|Azure Windraveled Armguards|50|NEW|Vendor
+165|Azure Windraveled Strap|50|NEW|Vendor
+165|Cloudy Gustwoven Belt|50|NEW|Vendor
+165|Cloudy Gustwoven Bracers|50|NEW|Vendor
+165|Cloudy Windraveled Armguards|50|NEW|Vendor
+165|Cloudy Windraveled Strap|50|NEW|Vendor
+165|Fine Leather Cloak|50|Old|Trainer
+165|Embossed Leather Boots|50|Old|Trainer
+165|Embossed Leather Pants|50|Old|Trainer
+165|Fine Leather Gloves|50|Old|Drop
+165|Azure Gustwoven Boots|55|NEW|Vendor
+165|Azure Gustwoven Gloves|55|NEW|Vendor
+165|Azure Windraveled Footwraps|55|NEW|Vendor
+165|Azure Windraveled Mitts|55|NEW|Vendor
+165|Cloudy Gustwoven Boots|55|NEW|Vendor
+165|Cloudy Gustwoven Gloves|55|NEW|Vendor
+165|Cloudy Windraveled Footwraps|55|NEW|Vendor
+165|Cloudy Windraveled Mitts|55|NEW|Vendor
+165|Fine Leather Belt|55|Old|Trainer
+165|Azure Gustwoven Harness|60|NEW|Vendor
+165|Azure Gustwoven Trousers|60|NEW|Vendor
+165|Azure Windraveled Jerkin|60|NEW|Vendor
+165|Azure Windraveled Pants|60|NEW|Vendor
+165|Cloudy Gustwoven Harness|60|NEW|Vendor
+165|Cloudy Gustwoven Trousers|60|NEW|Vendor
+165|Cloudy Windraveled Jerkin|60|NEW|Vendor
+165|Cloudy Windraveled Pants|60|NEW|Vendor
+165|Brawler's Leather Belt|60|NEW|Vendor
+165|Defender's Leather Belt|60|NEW|Vendor
+165|Fine Leather Tunic|60|Old|Trainer
+165|Stormrider's Leather Belt|60|NEW|Vendor
+165|Totemic Leather Belt|60|NEW|Vendor
+165|Trapper's Leather Belt|60|NEW|Vendor
+165|Wisdom's Leather Belt|60|NEW|Vendor
+165|Moonglow Vest|65|Old|Quest
+165|Deviate Scale Cloak|65|Old|Vendor
+165|Fine Leather Boots|65|Old|Drop
+165|Murloc Scale Belt|65|Old|Drop
+165|Light Leather Pants|70|Old|Trainer
+165|Murloc Scale Breastplate|70|Old|Drop
+165|Medium Leather|75|Old|Trainer
+165|Cured Medium Hide|75|Old|Trainer
+165|Medium Armor Kit|75|Old|Trainer
+165|Black Whelp Cloak|75|Old|Drop
+165|Black Whelp Tunic|75|Old|Drop
+165|Brawler's Leather Gloves|75|NEW|Drop
+165|Dark Leather Tunic|75|Old|Drop
+165|Defender's Leather Gloves|75|NEW|Drop
+165|Gray Leather Boots|75|Old|Trainer
+165|Hillman's Leather Vest|75|Old|Drop
+165|Stormrider's Leather Gloves|75|NEW|Drop
+165|Totemic Leather Gloves|75|NEW|Drop
+165|Trapper's Leather Gloves|75|NEW|Drop
+165|Wisdom's Leather Gloves|75|NEW|Drop
+165|Brawler's Leather Armor|80|NEW|?
+165|Defender's Leather Armor|80|NEW|?
+165|Stormrider's Leather Armor|80|NEW|?
+165|Totemic Leather Armor|80|NEW|?
+165|Trapper's Leather Armor|80|NEW|?
+165|Wisdom's Leather Armor|80|NEW|?
+165|Forceful Medium Armor Kit|80|NEW|Vendor
+165|Mystic Medium Armor Kit|80|NEW|Vendor
+165|Deviate Scale Gloves|80|Old|Vendor
+165|Fine Leather Pants|80|Old|Drop
+165|Brawler's Leather Boots|85|NEW|Vendor
+165|Dark Leather Cloak|85|Old|Trainer
+165|Defender's Leather Boots|85|NEW|Vendor
+165|Stormrider's Leather Boots|85|NEW|Vendor
+165|Totemic Leather Boots|85|NEW|Vendor
+165|Trapper's Leather Boots|85|NEW|Vendor
+165|Wisdom's Leather Boots|85|NEW|Vendor
+165|Dark Leather Pants|90|Old|Trainer
+165|Deviate Scale Belt|90|Old|Quest
+165|Nimble Leather Gloves|95|Old|Trainer
+165|Red Whelp Gloves|95|Old|Drop
+165|Toughened Leather Armor|95|Old|Trainer
+165|Hillman's Belt|95|Old|Drop
+165|Dark Leather Gloves|95|Old|Drop
+165|Brawler's Leather Hood|100|NEW|Drop
+165|Dark Leather Belt|100|Old|Trainer
+165|Defender's Leather Hood|100|NEW|Drop
+165|Fletcher's Gloves|100|Old|Trainer
+165|Stormrider's Leather Hood|100|NEW|Drop
+165|Totemic Leather Hood|100|NEW|Drop
+165|Trapper's Leather Hood|100|NEW|Drop
+165|Wisdom's Leather Hood|100|NEW|Drop
+165|Brawler's Leather Pants|105|NEW|?
+165|Defender's Leather Pants|105|NEW|?
+165|Stormrider's Leather Pants|105|NEW|?
+165|Totemic Leather Pants|105|NEW|?
+165|Trapper's Leather Pants|105|NEW|?
+165|Wisdom's Leather Pants|105|NEW|?
+165|Hillman's Shoulders|105|Old|Trainer
+165|Brawler's Leather Tunic|110|NEW|Vendor
+165|Defender's Leather Tunic|110|NEW|Vendor
+165|Earthen Leather Shoulders|110|Old|Vendor
+165|Herbalist's Gloves|110|Old|Drop
+165|Hillman's Leather Boots|110|NEW|Drop
+165|Stormrider's Leather Tunic|110|NEW|Vendor
+165|Totemic Leather Tunic|110|NEW|Vendor
+165|Toughened Leather Gloves|110|Old|Trainer
+165|Trapper's Leather Tunic|110|NEW|Vendor
+165|Wisdom's Leather Tunic|110|NEW|Vendor
+165|Dark Leather Shoulders|115|Old|Drop
+165|Pilferer's Gloves|115|Old|Drop
+165|Heavy Earthen Gloves|120|Old|Drop
+165|Hillman's Leather Gloves|120|Old|Trainer
+165|Heavy Leather|125|Old|Trainer
+165|Cured Heavy Hide|125|Old|Trainer
+165|Heavy Armor Kit|125|Old|Trainer
+165|Heavy Leather Ammo Pouch|125|Old|Trainer
+165|Heavy Quiver|125|Old|Trainer
+165|Hillman's Cloak|125|Old|Trainer
+165|Barbaric Gloves|125|Old|Drop
+165|Brawler's Leather Legguards|125|NEW|Drop
+165|Defender's Leather Kilt|125|NEW|Drop
+165|Stormrider's Leather Kilt|125|NEW|Drop
+165|Totemic Leather Leggings|125|NEW|Drop
+165|Trapper's Leather Legguards|125|NEW|Drop
+165|Wisdom's Leather Leggings|125|NEW|Drop
+165|Brawler's Leather Helm|130|NEW|?
+165|Defender's Leather Helm|130|NEW|?
+165|Stormrider's Leather Helm|130|NEW|?
+165|Totemic Leather Helm|130|NEW|?
+165|Trapper's Leather Helm|130|NEW|?
+165|Wisdom's Leather Helm|130|NEW|?
+165|Green Leather Armor|130|Old|Vendor
+165|Barbaric Bracers|130|Old|Vendor
+165|Forceful Heavy Armor Kit|135|NEW|Vendor
+165|Green Leather Belt|135|Old|Trainer
+165|Guardian Pants|135|Old|Trainer
+165|Mystic Heavy Armor Kit|135|NEW|Vendor
+165|Tanning Rack|140|NEW|Drop
+165|Dusky Leather Leggings|140|Old|Drop
+165|Raptor Hide Belt|140|Old|Drop
+165|Raptor Hide Harness|140|Old|Drop
+165|Barbaric Leggings|145|Old|Vendor
+165|Guardian Belt|145|Old|Drop
+165|Thick Murloc Armor|145|Old|Drop
+165|Heavy Leather Ball|150|Old|Vendor
+165|Mender's Leather Belt|150|NEW|Vendor
+165|Prowler's Leather Belt|150|NEW|Vendor
+165|Skirmisher's Leather Belt|150|NEW|Vendor
+165|Skulker's Leather Belt|150|NEW|Vendor
+165|Skycaller's Leather Belt|150|NEW|Vendor
+165|Stalker's Leather Belt|150|NEW|Vendor
+165|Warden's Leather Belt|150|NEW|Vendor
+165|Barbaric Shoulders|150|Old|Trainer
+165|Dusky Leather Armor|150|Old|Trainer
+165|Green Whelp Armor|150|Old|Drop
+165|Guardian Armor|150|Old|Drop
+165|Frost Leather Cloak|155|Old|Trainer
+165|Green Leather Bracers|155|Old|Trainer
+165|Void-Touched Leather Gauntlets|160|Old|?
+165|Void-Touched Leather Gloves|160|Old|?
+165|Dusky Bracers|160|Old|Trainer
+165|Gem-studded Leather Belt|160|Old|Drop
+165|Guardian Cloak|160|Old|Drop
+165|Guardian Pants|160|Old|Trainer
+165|Barbaric Harness|165|Old|Trainer
+165|Gloves of the Greatfather|165|Old|Drop
+165|Green Whelp Bracers|165|Old|Vendor
+165|Guardian Gloves|165|Old|Trainer
+165|Murloc Scale Bracers|165|Old|Drop
+165|Dusky Belt|170|Old|Trainer
+165|Guardian Belt|170|Old|Drop
+165|Guardian Leather Bracers|170|Old|Drop
+165|Cured Thick Hide|175|Old|Trainer
+165|Thick Leather|175|Old|Trainer
+165|Azure Gustwoven Hood|175|NEW|Vendor
+165|Azure Gustwoven Spaulders|175|NEW|Vendor
+165|Azure Windraveled Cover|175|NEW|Vendor
+165|Azure Windraveled Drapes|175|NEW|Vendor
+165|Cloudy Gustwoven Hood|175|NEW|Vendor
+165|Cloudy Gustwoven Spaulders|175|NEW|Vendor
+165|Cloudy Windraveled Cover|175|NEW|Vendor
+165|Cloudy Windraveled Drapes|175|NEW|Vendor
+165|Shadowskin Gloves|175|Old|Vendor
+165|Barbaric Belt|175|Old|Drop
+165|Comfortable Leather Hat|175|Old|Drop
+165|Dusky Boots|175|Old|Drop
+165|Mender's Leather Gloves|175|NEW|Vendor
+165|Prowler's Leather Gloves|175|NEW|Vendor
+165|Skirmisher's Leather Gloves|175|NEW|Vendor
+165|Skulker's Leather Gloves|175|NEW|Vendor
+165|Skycaller's Leather Gloves|175|NEW|Vendor
+165|Stalker's Leather Gloves|175|NEW|Vendor
+165|Swift Boots|175|Old|Drop
+165|Thick Armor Kit|175|Old|Trainer
+165|Warden's Leather Gloves|175|NEW|Vendor
+165|Nightscape Headband|180|Old|Trainer
+165|Nightscape Tunic|180|Old|Trainer
+165|Turtle Scale Gloves|180|Old|Drop
+165|Forceful Thick Armor Kit|185|NEW|Vendor
+165|Mystic Thick Armor Kit|185|NEW|Quest
+165|Nightscape Shoulders|185|Old|Vendor
+165|Turtle Scale Bracers|185|Old|Trainer
+165|Turtle Scale Breastplate|185|Old|Trainer
+165|Big Voodoo Robe|190|Old|Drop
+165|Big Voodoo Mask|195|Old|Drop
+165|Guardian Leather Bracers|195|Old|Drop
+165|Tough Scorpid Bracers|195|Old|Drop
+165|Tough Scorpid Breastplate|195|Old|Drop
+165|Wild Leather Shoulders|195|Old|Quest
+165|Faintly Glowing Leather|200|Old|Vendor
+165|Mender's Leather Shoes|200|NEW|Drop
+165|Mender's Mail Boots|200|NEW|Drop
+165|Prowler's Leather Shoes|200|NEW|?
+165|Skirmisher's Mail Boots|200|NEW|?
+165|Skulker's Leather Shoes|200|NEW|?
+165|Skycaller's Leather Shoes|200|NEW|Drop
+165|Skycaller's Mail Boots|200|NEW|?
+165|Stalker's Mail Boots|200|NEW|?
+165|Warden's Leather Shoes|200|NEW|Drop
+165|Quickdraw Quiver|200|Old|Trainer
+165|Thick Leather Ammo Pouch|200|Old|Trainer
+165|Tough Scorpid Gloves|200|Old|Drop
+165|Wild Leather Helmet|200|Old|Quest
+165|Wild Leather Vest|200|Old|Quest
+165|Nightscape Pants|205|Old|Trainer
+165|Turtle Scale Gloves|205|Old|Drop
+165|Turtle Scale Helm|205|Old|Trainer
+165|Mender's Mail Shoulders|210|NEW|Vendor
+165|Skirmisher's Mail Shoulders|210|NEW|Vendor
+165|Skycaller's Mail Shoulders|210|NEW|Vendor
+165|Stalker's Mail Shoulders|210|NEW|Vendor
+165|Mender's Leather Shoulders|210|NEW|Vendor
+165|Nightscape Boots|210|Old|Trainer
+165|Prowler's Leather Shoulders|210|NEW|Vendor
+165|Skulker's Leather Shoulders|210|NEW|Vendor
+165|Skycaller's Leather Shoulders|210|NEW|Vendor
+165|Tough Scorpid Boots|210|Old|Drop
+165|Turtle Scale Breastplate|210|Old|Trainer
+165|Turtle Scale Leggings|210|Old|Trainer
+165|Warden's Leather Shoulders|210|NEW|Vendor
+165|Big Voodoo Pants|215|Old|Drop
+165|Big Voodoo Cloak|215|Old|Drop
+165|Big Voodoo Robe|215|Old|Drop
+165|Tough Scorpid Shoulders|215|Old|Drop
+165|Big Voodoo Mask|220|Old|Drop
+165|Tough Scorpid Leggings|220|Old|Drop
+165|Wild Leather Boots|220|Old|Quest
+165|Dragonscale Gauntlets|225|Old|Trainer
+165|Mender's Mail Bracers|225|NEW|Vendor
+165|Skirmisher's Mail Bracers|225|NEW|Vendor
+165|Skycaller's Mail Bracers|225|NEW|Vendor
+165|Stalker's Mail Bracers|225|NEW|Vendor
+165|Wolfshead Helm|225|Old|?
+165|Rugged Leather|225|Old|Trainer
+165|Cured Rugged Hide|225|Old|Trainer
+165|Glowing Gneuro-Linked Cowl|225|Old|Vendor
+165|Glowing Hyperconductive Scale Coif|225|Old|Vendor
+165|Gneuro-Conductive Channeler's Hood|225|Old|Vendor
+165|Rad-Resistant Scale Hood|225|Old|Vendor
+165|Rugged Armor Kit|225|Old|Trainer
+165|Mender's Leather Bracers|225|NEW|Vendor
+165|Prowler's Leather Bracers|225|NEW|Vendor
+165|Skulker's Leather Bracers|225|NEW|Vendor
+165|Skycaller's Leather Bracers|225|NEW|Vendor
+165|Tough Scorpid Helm|225|Old|Drop
+165|Warden's Leather Bracers|225|NEW|Vendor
+165|Wild Leather Cloak|225|Old|Quest
+165|Wild Leather Leggings|225|Old|Quest
+165|Gauntlets of the Sea|230|Old|?
+165|Charged Scorpid Belt|230|NEW|?
+165|Supple Scorpid Boots|230|NEW|?
+165|Forceful Rugged Armor Kit|235|NEW|Vendor
+165|Mystic Rugged Armor Kit|235|NEW|Vendor
+165|Blue Suede Shoes|235|NEW|?
+165|Green Dragonscale Breastplate|235|Old|Vendor
+165|Mender's Leather Boots|235|NEW|Vendor
+165|Mender's Mail Sabatons|235|NEW|Vendor
+165|Prowler's Leather Boots|235|NEW|Vendor
+165|Skirmisher's Mail Sabatons|235|NEW|Vendor
+165|Skulker's Leather Boots|235|NEW|Vendor
+165|Skycaller's Leather Boots|235|NEW|Vendor
+165|Skycaller's Mail Sabatons|235|NEW|Vendor
+165|Stalker's Mail Sabatons|235|NEW|Vendor
+165|Tooled Leather Belt|235|NEW|?
+165|Warden's Leather Boots|235|NEW|Vendor
+165|Wicked Leather Gauntlets|235|Old|Vendor
+165|Blue Suede Gloves|240|NEW|?
+165|Charged Scorpid Helm|240|NEW|?
+165|Chimeric Gloves|240|Old|Vendor
+165|Heavy Scorpid Vest|240|Old|Drop
+165|Supple Scorpid Leggings|240|NEW|?
+165|Tooled Leather Boots|240|NEW|?
+165|Wicked Leather Bracers|240|Old|Drop
+165|Green Dragonscale Leggings|245|Old|Drop
+165|Ironfeather Shoulders|245|Old|Vendor
+165|Living Shoulders|245|Old|Vendor
+165|Runic Leather Gauntlets|245|Old|Drop
+165|Volcanic Leggings|245|Old|Drop
+165|Cacophonous Chain Shoulderguards|250|Old|?
+165|Membrane of Dark Neurosis|250|Old|?
+165|Paranoia Mantle|250|Old|?
+165|Screaming Chain Pauldrons|250|Old|?
+165|Shoulderpads of Obsession|250|Old|?
+165|Shrieking Spaulders|250|Old|?
+165|Wailing Chain Mantle|250|Old|?
+165|Feathered Breastplate|250|Old|?
+165|Helm of Fire|250|Old|?
+165|Mender's Leather Gauntlets|250|NEW|?
+165|Mender's Mail Gauntlets|250|NEW|?
+165|Prowler's Leather Gauntlets|250|NEW|?
+165|Skirmisher's Mail Gauntlets|250|NEW|?
+165|Skulker's Leather Gauntlets|250|NEW|?
+165|Skycaller's Leather Gauntlets|250|NEW|?
+165|Skycaller's Mail Gauntlets|250|NEW|?
+165|Stalker's Mail Gauntlets|250|NEW|?
+165|Warden's Leather Gauntlets|250|NEW|?
+165|Scarlet Huntsman's Clasp|250|Old|Drop
+165|Scarlet Huntsman's Wristguards|250|Old|Drop
+165|Scarlet Infiltrator's Belt|250|Old|Drop
+165|Scarlet Infiltrator's Bracers|250|Old|Drop
+165|Charged Scorpid Shoulders|250|NEW|?
+165|Chimeric Boots|250|Old|Drop
+165|Frostsaber Boots|250|Old|Vendor
+165|Heavy Scorpid Gauntlets|250|Old|Drop
+165|Mender's Leather Waistguard|250|NEW|Vendor
+165|Mender's Mail Belt|250|NEW|Vendor
+165|Prowler's Leather Waistguard|250|NEW|Vendor
+165|Runic Leather Bracers|250|Old|Drop
+165|Skirmisher's Mail Belt|250|NEW|Vendor
+165|Skulker's Leather Waistguard|250|NEW|Vendor
+165|Skycaller's Leather Waistguard|250|NEW|Vendor
+165|Skycaller's Mail Belt|250|NEW|Vendor
+165|Stalker's Mail Belt|250|NEW|Vendor
+165|Stormshroud Pants|250|Old|Vendor
+165|Supple Scorpid Bracers|250|NEW|?
+165|Warbear Harness|250|Old|Drop
+165|Warden's Leather Waistguard|250|NEW|Vendor
+165|Dragonscale Breastplate|255|Old|Trainer
+165|Heavy Scorpid Bracers|255|Old|Vendor
+165|Blue Suede Pants|255|NEW|?
+165|Charged Scorpid Bracers|255|NEW|?
+165|Charged Scorpid Gauntlets|255|NEW|?
+165|Chimeric Leggings|255|Old|Drop
+165|Heavy Scorpid Belt|255|Old|Drop
+165|Heavy Scorpid Boots|255|NEW|?
+165|Runic Leather Belt|255|Old|Drop
+165|Supple Scorpid Belt|255|NEW|?
+165|Supple Scorpid Shoulders|255|NEW|?
+165|Tooled Leather Armor|255|NEW|Vendor
+165|Wicked Leather Headband|255|Old|Drop
+165|Scarlet Huntsman's Boots|260|Old|Drop
+165|Scarlet Huntsman's Handguards|260|Old|Drop
+165|Scarlet Infiltrator's Gloves|260|Old|Drop
+165|Scarlet Infiltrator's Shoes|260|Old|Drop
+165|Blue Dragonscale Breastplate|260|Old|Vendor
+165|Blue Suede Shoulders|260|NEW|?
+165|Charged Scorpid Vest|260|NEW|?
+165|Frostsaber Leggings|260|Old|Drop
+165|Heavy Scorpid Leggings|260|Old|Drop
+165|Living Green Dragonscale Breastplate|260|Old|Vendor
+165|Living Leggings|260|Old|Drop
+165|Stormshroud Armor|260|Old|Drop
+165|Supple Scorpid Helm|260|NEW|?
+165|Tooled Leather Gauntlets|260|NEW|?
+165|Volcanic Breastplate|260|Old|Drop
+165|Warbear Woolies|260|Old|Vendor
+165|Wicked Leather Boots|260|NEW|?
+165|Black Dragonscale Breastplate|265|Old|Vendor
+165|Blue Suede Armor|265|NEW|Quest
+165|Chimeric Vest|265|Old|Drop
+165|Dawn Treaders|265|Old|Vendor
+165|Devilsaur Gauntlets|265|Old|Vendor
+165|Ironfeather Breastplate|265|Old|Drop
+165|Might of the Timbermaw|265|Old|Vendor
+165|Runic Leather Headband|265|Old|Vendor
+165|Tooled Leather Crown|265|NEW|?
+165|Wicked Leather Pants|265|Old|Drop
+165|Wildthorn Mail|270|Old|Drop
+165|Scarlet Huntsman's Legguards|270|Old|Drop
+165|Scarlet Infiltrator's Trousers|270|Old|Drop
+165|Blue Dragonscale Shoulders|270|Old|Drop
+165|Blue Suede Belt|270|NEW|?
+165|Charged Scorpid Leggings|270|NEW|?
+165|Frostsaber Gloves|270|Old|Drop
+165|Heavy Scorpid Helm|270|Old|Vendor
+165|Living Green Dragonscale Leggings|270|Old|?
+165|Masterwork Volcanic Leggings|270|Old|Drop
+165|Stormshroud Shoulders|270|Old|Drop
+165|Supple Scorpid Vest|270|NEW|Vendor
+165|Tooled Leather Bracers|270|NEW|?
+165|Wicked Leather Shoulders|270|NEW|?
+165|Living Green Dragonscale Gauntlets|270|Old|?
+165|Black Dragonscale Shoulders|270|Old|Drop
+165|Scarlet Ammo Pouch|275|Old|?
+165|Scarlet Quiver|275|Old|?
+165|Blue Suede Bracers|275|NEW|?
+165|Runic Leather Pants|275|Old|Drop
+165|Tooled Leather Epaulets|275|NEW|?
+165|Wicked Leather Belt|275|Old|Drop
+165|Green Dragonscale Gauntlets|280|Old|Trainer
+165|Scarlet Huntsman's Chain|280|Old|Drop
+165|Scarlet Huntsman's Coif|280|Old|Drop
+165|Scarlet Huntsman's Pauldrons|280|Old|Drop
+165|Scarlet Infiltrator's Bandana|280|Old|Drop
+165|Scarlet Infiltrator's Shoulderpads|280|Old|Drop
+165|Scarlet Infiltrator's Vest|280|Old|Drop
+165|Blue Suede Hat|280|NEW|?
+165|Charged Scorpid Boots|280|NEW|?
+165|Heavy Scorpid Shoulders|280|Old|Drop
+165|Supple Scorpid Sabatons|280|NEW|?
+165|Tooled Leather Pants|280|NEW|?
+165|Volcanic Shoulders|280|Old|Drop
+165|Wicked Leather Armor|280|Old|Drop
+165|Gordok Ogre Suit|285|Old|?
+165|Synthetic Gordok Ogre Suit|285|Old|?
+165|Bileblister Claws|285|NEW|?
+165|Broodwatcher's Clenchers|285|NEW|?
+165|Hivethrasher's Claws|285|NEW|?
+165|Scalegut Clenchers|285|NEW|?
+165|Honed Blue Dragonscale Breastplate|285|Old|Vendor
+165|Masterwork Volcanic Breastplate|285|Old|Drop
+165|Runic Leather Armor|285|Old|Drop
+165|Runic Leather Shoulders|285|Old|Drop
+165|Winter Boots|285|NEW|?
+165|Heavy Timbermaw Belt|290|Old|Vendor
+165|Bileblister Girdle|290|NEW|?
+165|Broodwatcher's Belt|290|NEW|?
+165|Hivethrasher's Girdle|290|NEW|?
+165|Scalegut Belt|290|NEW|?
+165|Black Dragonscale Leggings|290|Old|Drop
+165|Devilcore Gauntlets|290|Old|Drop
+165|Devilsaur Leggings|290|Old|Drop
+165|Frostsaber Tunic|290|Old|Drop
+165|Girdle of Insight|290|Old|Drop
+165|Hardened Black Dragonscale Breastplate|290|Old|Vendor
+165|Living Breastplate|290|Old|Drop
+165|Mongoose Boots|290|Old|Drop
+165|Red Dragonscale Breastplate|290|Old|Drop
+165|Stormshroud Gloves|290|Old|Drop
+165|Swift Flight Bracers|290|Old|Drop
+165|Storm Gauntlets|295|Old|Drop
+165|Bileblister Boots|295|NEW|?
+165|Broodwatcher's Treaders|295|NEW|?
+165|Hivethrasher's Boots|295|NEW|?
+165|Scalegut Treaders|295|NEW|?
+165|Corehound Boots|295|Old|Vendor
+165|Honed Blue Dragonscale Shoulders|295|Old|Drop
+165|Timbermaw Brawlers|295|Old|Vendor
+165|Helm of the Great Chief|300|Old|Drop
+165|Invulnerable Mail|300|Old|Drop
+165|Sewing Machine|300|NEW|?
+165|Heavy Timbermaw Boots|300|Old|Vendor
+165|Elderwild Pants|300|NEW|?
+165|Elderwild Waistcord|300|NEW|?
+165|Eternity Pauldrons|300|NEW|?
+165|Mourning Handguards|300|NEW|?
+165|Outlaw's Collar|300|NEW|?
+165|Tranquil Wristguards|300|NEW|?
+165|Wild Leather Armor Kit|300|NEW|?
+165|Blue Dragonscale Leggings|300|Old|Trainer
+165|Golden Mantle of the Dawn|300|Old|Vendor
+165|Grimstitch Boots|300|NEW|Vendor
+165|Grimstitch Gloves|300|NEW|Vendor
+165|Grimstitch Pants|300|NEW|Vendor
+165|Grimstitch Spaulders|300|NEW|Vendor
+165|Grovekeeper Boots|300|NEW|Vendor
+165|Grovekeeper Gauntlets|300|NEW|Vendor
+165|Grovekeeper Grips|300|NEW|Vendor
+165|Grovekeeper Handguards|300|NEW|Vendor
+165|Grovekeeper Kilt|300|NEW|Vendor
+165|Grovekeeper Leggings|300|NEW|Vendor
+165|Grovekeeper Legguards|300|NEW|Vendor
+165|Grovekeeper Mantle|300|NEW|Vendor
+165|Grovekeeper Mitts|300|NEW|Vendor
+165|Grovekeeper Pauldrons|300|NEW|Vendor
+165|Grovekeeper Sandals|300|NEW|Vendor
+165|Grovekeeper Shoulderpads|300|NEW|Vendor
+165|Grovekeeper Spaulders|300|NEW|Vendor
+165|Grovekeeper Stompers|300|NEW|Vendor
+165|Grovekeeper Treads|300|NEW|Vendor
+165|Grovekeeper Trousers|300|NEW|Vendor
+165|Spiritcaller Boots|300|NEW|Vendor
+165|Spiritcaller Epaulets|300|NEW|Vendor
+165|Spiritcaller Gauntlets|300|NEW|Vendor
+165|Spiritcaller Gloves|300|NEW|Vendor
+165|Spiritcaller Greaves|300|NEW|Vendor
+165|Spiritcaller Grips|300|NEW|Vendor
+165|Spiritcaller Kilt|300|NEW|Vendor
+165|Spiritcaller Leggings|300|NEW|Vendor
+165|Spiritcaller Mantle|300|NEW|Vendor
+165|Spiritcaller Pants|300|NEW|Vendor
+165|Spiritcaller Spaulders|300|NEW|Vendor
+165|Spiritcaller Treads|300|NEW|Vendor
+165|Wildstalker's Gauntlets|300|NEW|Vendor
+165|Wildstalker's Greaves|300|NEW|Vendor
+165|Wildstalker's Legguards|300|NEW|Vendor
+165|Wildstalker's Spaulders|300|NEW|Vendor
+165|Black Dragonscale Boots|300|Old|Vendor
+165|Black Dragonscale Helm|300|NEW|?
+165|Blood Tiger Breastplate|300|Old|Vendor
+165|Blood Tiger Shoulders|300|Old|Vendor
+165|Blue Dragonscale Helm|300|NEW|?
+165|Brilliant Chromatic Cloak|300|Old|Drop
+165|Chromatic Cloak|300|Old|Drop
+165|Chromatic Gauntlets|300|Old|Vendor
+165|Core Armor Kit|300|Old|Drop
+165|Corehound Belt|300|Old|Vendor
+165|Dawn Armor|300|NEW|?
+165|Devilcore Leggings|300|Old|Drop
+165|Girdle of Arcane Insight|300|Old|Drop
+165|Hardened Black Dragonscale Leggings|300|Old|Drop
+165|Hardened Black Dragonscale Shoulders|300|Old|Drop
+165|Hide of the Wild|300|Old|Drop
+165|Ironfeather Leggings|300|NEW|?
+165|Lava Belt|300|Old|Vendor
+165|Living Crown|300|NEW|?
+165|Mastercrafted Shifting Cloak|300|Old|Drop
+165|Masterwork Volcanic Shoulders|300|Old|Drop
+165|Molten Belt|300|Old|Vendor
+165|Molten Helm|300|Old|Vendor
+165|Primal Batskin Bracers|300|Old|Vendor
+165|Primal Batskin Gloves|300|Old|Vendor
+165|Primal Batskin Jerkin|300|Old|Vendor
+165|Pristine Scorpid Leggings|300|NEW|?
+165|Red Dragonscale Leggings|300|NEW|?
+165|Shifting Cloak|300|Old|Drop
+165|Swift Flight Vambraces|300|Old|Drop
+165|Timbermaw Tunic|300|NEW|?
+165|Warbear Helm|300|NEW|?
+165|Spitfire Gauntlets|305|Old|?
+165|Sandstalker Bracers|310|Old|?
+165|Sandstalker Breastplate|310|Old|?
+165|Sandstalker Gauntlets|310|Old|?
+165|Spitfire Bracers|310|Old|?
+165|Spitfire Breastplate|310|Old|?
+165|Bramblewood Belt|320|Old|?
+165|Bramblewood Belt|320|Old|?
+165|Bramblewood Boots|320|Old|?
+165|Bramblewood Boots|320|Old|?
+165|Bramblewood Helm|320|Old|?
+165|Bramblewood Helm|320|Old|?
+165|Dreamscale Breastplate|320|Old|?
+165|Dreamscale Breastplate|320|Old|?
+165|Dreamscale Kilt|320|Old|?
+165|Glowing Chitin Armor Kit|320|Old|?
+165|Honed Blue Dragonscale Leggings|320|Old|?
+165|Icy Scale Bracers|320|Old|?
+165|Icy Scale Bracers|320|Old|?
+165|Icy Scale Breastplate|320|Old|?
+165|Icy Scale Breastplate|320|Old|?
+165|Icy Scale Gauntlets|320|Old|?
+165|Icy Scale Gauntlets|320|Old|?
+165|Onyxia Scale Cloak|320|Old|?
+165|Polar Bracers|320|Old|?
+165|Polar Bracers|320|Old|?
+165|Polar Gloves|320|Old|?
+165|Polar Gloves|320|Old|?
+165|Polar Tunic|320|Old|?
+165|Polar Tunic|320|Old|?
+165|Razorbramble Cowl|320|Old|?
+165|Razorbramble Leathers|320|Old|?
+165|Razorbramble Shoulderpads|320|Old|?
+165|Sandstalker Bracers|320|Old|?
+165|Sandstalker Breastplate|320|Old|?
+165|Sandstalker Gauntlets|320|Old|?
+165|Sharpened Chitin Armor Kit|320|Old|?
+165|Spitfire Bracers|320|Old|?
+165|Spitfire Breastplate|320|Old|?
+165|Spitfire Gauntlets|320|Old|?
+171|Minor Arcane Elixir|1|NEW|Automatic
+171|Elixir of Minor Force|1|NEW|Automatic
+171|Elixir of Minor Defense#Forever|1|Old|Automatic
+171|Elixir of Minor Spirit|15|NEW|Drop
+171|Elixir of Lion's Strength#Forever|15|Old|Trainer
+171|Weak Troll's Blood Elixir#Forever|15|Old|Trainer
+171|Mana Well|20|NEW|Trainer
+171|Minor Mageblood Elixir|25|NEW|Drop
+171|Minor Mana Potion#Forever|25|Old|Trainer
+171|Minor Mender's Potion|30|NEW|Drop
+171|Minor Spellblasting Potion|35|NEW|Drop
+171|Minor Frenzy Potion|40|NEW|Drop
+171|Cerulean Dye|40|NEW|Trainer
+171|Sulfuric Acid|40|NEW|Trainer
+171|Minor Rejuvenation Potion#Forever|40|Old|Trainer
+171|Minor Cleric's Elixir|45|NEW|Drop
+171|Minor Discolored Healing Potion|50|NEW|Quest
+171|Elixir of Minor Fortitude#Forever|50|Old|Trainer
+171|Elixir of Minor Agility#Forever|50|Old|Drop
+171|Swiftness Potion#Forever|60|Old|Drop
+171|Rage Potion#Forever|60|Old|Vendor
+171|Elixir of Lesser Spirit|65|NEW|?
+171|Lesser Mageblood Elixir|75|NEW|?
+171|Blackmouth Oil|80|Old|Trainer
+171|Lesser Mender's Potion|80|NEW|Drop
+171|Lesser Discolored Healing Potion|85|NEW|Special trainer
+171|Lesser Spellblasting Potion|85|NEW|Drop
+171|Elixir of Coalesced Regret|90|NEW|Vendor
+171|Lesser Frenzy Potion|90|NEW|Drop
+171|Elixir of Wisdom|90|Old|Trainer
+171|Elixir of Giant Growth|90|Old|Drop
+171|Elixir of Water Breathing#Forever|90|Old|Trainer
+171|Lesser Cleric's Elixir|95|NEW|?
+171|Elixir of Lesser Intellect|95|NEW|?
+171|Swim Speed Potion|100|Old|Trainer
+171|Holy Protection Potion|100|Old|Vendor
+171|Minor Magic Resistance Potion|110|Old|Drop
+171|Elixir of Spirit|115|NEW|Drop
+171|Lesser Arcane Elixir (Forever)|120|NEW|?
+171|Magenta Dye|120|NEW|Trainer
+171|Lesser Mana Potion|120|Old|Trainer
+171|Potion of Curing#Forever|120|Old|Drop
+171|Strong Troll's Blood Elixir#Forever|125|Old|Trainer
+171|Mender's Potion|130|NEW|?
+171|Fire Oil|130|Old|Trainer
+171|Elixir of Defense#Forever|130|Old|Trainer
+171|Discolored Healing Potion (Forever)|135|NEW|Special trainer
+171|Spellblasting Potion|135|NEW|?
+171|Elixir of Intellect|135|NEW|Drop
+171|Shadow Protection Potion|135|Old|Vendor
+171|Fermenter|140|NEW|Drop; Rath'mael
+171|Frenzy Potion|140|NEW|?
+171|Elixir of Firepower#Forever|140|Old|Trainer
+171|Elixir of Lesser Agility|140|Old|Drop
+171|Cleric's Elixir|145|NEW|Drop
+171|Elixir of Strength|150|NEW|Drop
+171|Elixir of Fortitude (Forever)|150|NEW|Drop
+171|Free Action Potion|150|Old|Vendor
+171|Elixir of Ogre's Strength#Forever|150|Old|Drop
+171|Mana Potion|160|Old|Trainer
+171|Elixir of Greater Spirit|165|NEW|Friendly;
+171|Lesser Invisibility Potion|165|Old|Trainer
+171|Shadow Oil|165|Old|Vendor
+171|Fire Protection Potion|165|Old|Vendor
+171|Greater Discolored Healing Potion|175|NEW|Special trainer
+171|Greater Mageblood Elixir|175|NEW|Friendly;
+171|Great Rage Potion|175|Old|Vendor
+171|Elixir of Fortitude#Forever|165|Old|Trainer
+171|Greater Mender's Potion|180|NEW|Trainer
+171|Major Troll's Blood Elixir#Forever|180|Old|Drop
+171|Greater Spellblasting Potion|185|NEW|Quest
+171|Elixir of Agility|185|Old|Trainer
+171|Greater Frenzy Potion|190|NEW|Quest
+171|Frost Protection Potion|190|Old|Vendor
+171|Lesser Arcane Elixir|190|Old|Vendor
+171|Nature Protection Potion|190|Old|Vendor
+171|Elixir of Frost Power|190|Old|Drop
+171|Potion of Predatory Senses|195|NEW|?
+171|Greater Cleric's Elixir|195|NEW|Friendly;
+171|Elixir of Greater Defense#Forever|195|Old|Trainer
+171|Elixir of Detect Lesser Invisibility#Forever|195|Old|Drop
+171|Insulating Gniodine|200|NEW|Vendor
+171|Elixir of Greater Fortitude|200|NEW|Friendly;
+171|Frost Oil|200|Old|Vendor
+171|Catseye Elixir#Forever|200|Old|Trainer
+171|Revealing Draught|205|NEW|?
+171|Oil of Immolation|205|Old|Trainer
+171|Greater Mana Potion|205|Old|Trainer
+171|Goblin Rocket Fuel|210|Old|Crafted
+171|Magic Resistance Potion|210|Old|Drop
+171|Viridian Dye|215|NEW|Trainer
+171|Elixir of Greater Water Breathing#Forever|215|Old|Trainer
+171|Lesser Stoneshield Potion|215|Old|Quest
+171|Restorative Potion|225|Old|?
+171|Mildly Irradiated Rejuvenation Potion|225|NEW|Vendor
+171|Wildvine Potion|225|Old|Drop
+171|Philosopher's Stone (trinket)#Forever|225|Old|Vendor
+171|Transmute: Iron to Gold|225|Old|Vendor
+171|Transmute: Mithril to Truesilver|225|Old|Vendor
+171|Superior Discolored Healing Potion|230|NEW|Special trainer
+171|Superior Mender's Potion|230|NEW|?
+171|Elixir of Detect Undead#Forever|230|Old|Trainer
+171|Dreamless Sleep Potion|230|Old|Trainer
+171|Superior Spellblasting Potion|235|NEW|?
+171|Arcane Elixir|235|Old|Trainer
+171|Invisibility Potion|235|Old|Drop
+171|Elixir of Greater Intellect|235|Old|Trainer
+171|Superior Frenzy Potion|240|NEW|?
+171|Gift of Arthas|240|Old|Drop
+171|Elixir of Dream Vision#Forever|240|Old|Drop
+171|Elixir of Greater Agility|240|Old|Trainer
+171|Dragonfire Potion|245|NEW|Friendly;
+171|Ghost Dye|245|Old|Vendor
+171|Elixir of Giants#Forever|245|Old|Drop
+171|Jar of Nightmarish Mojo|250|NEW|?
+171|Flask of Restless Dreams|250|NEW|?
+171|Flask of Everlasting Nightmares|250|NEW|?
+171|Stonescale Oil|250|Old|Trainer
+171|Elixir of the Phalanx|250|NEW|Honored;
+171|Distilled Firewater|250|NEW|?
+171|Elixir of Shadow Power|250|Old|Vendor
+171|Elixir of Holy Power|250|Old|Drop
+171|Elixir of Demonslaying#Forever|250|Old|Vendor
+171|Elixir of Detect Demon#Forever|250|Old|Trainer
+171|Limited Invulnerability Potion|250|Old|Drop
+171|Major Discolored Healing Potion|250|NEW|Special trainer
+171|Mighty Rage Potion|255|Old|Drop
+171|Superior Mana Potion|260|Old|Vendor
+171|Caustic Smog Potion|265|NEW|Honored;
+171|Elixir of Greater Defense|265|Old|Vendor
+171|Elixir of the Sages|270|Old|Vendor
+171|Transmute: Legionite|275|NEW|Drop
+171|Transmute: Arcanite|275|Old|Vendor
+171|Transmute: Undeath to Water|275|Old|Drop
+171|Transmute: Earth to Water|275|Old|Vendor
+171|Transmute: Air to Fire|275|Old|Vendor
+171|Transmute: Water to Undeath|275|Old|Drop
+171|Transmute: Earth to Life|275|Old|Drop
+171|Transmute: Water to Air|275|Old|Vendor
+171|Transmute: Fire to Earth|275|Old|Vendor
+171|Transmute: Life to Earth|275|Old|Drop
+171|Potion of Venomous Blood|275|NEW|Honored;
+171|Elixir of the Whale|275|NEW|Honored;
+171|Elixir of Sages|275|NEW|Honored;
+171|Elixir of Ferocity|275|NEW|Honored;
+171|Elixir of Cunning|275|NEW|Honored;
+171|Mageblood Elixir|275|Old|Vendor
+171|Greater Dreamless Sleep Potion|275|Old|Vendor
+171|Elixir of Brute Force|275|Old|Drop
+171|Elixir of the Owl|280|NEW|Honored;
+171|Potion of Elemental Purging|280|NEW|Honored;
+171|Potion of Beast Slaying|280|NEW|?
+171|Major Mender's Potion|280|NEW|Honored;
+171|Elixir of the Mongoose|280|Old|Drop
+171|Greater Stoneshield Potion|280|Old|Drop
+171|Major Spellblasting Potion|285|NEW|Honored;
+171|Elixir of Wicked Regeneration|285|NEW|Honored;
+171|Elixir of Nature Power|285|NEW|Honored;
+171|Greater Arcane Elixir|285|Old|Drop
+171|Living Action Potion|285|Old|Vendor
+171|Purification Potion|285|Old|Drop
+171|Major Frenzy Potion|290|NEW|Honored;
+171|Greater Fire Protection Potion|290|Old|Drop
+171|Major Troll's Blood Elixir|290|Old|Vendor
+171|Greater Shadow Protection Potion|290|Old|Drop
+171|Greater Frost Protection Potion|290|Old|Drop
+171|Greater Nature Protection Potion|290|Old|Drop
+171|Greater Arcane Protection Potion|290|Old|Drop
+171|Major Mana Potion|295|Old|Drop
+171|Alchemy Laboratory (Camping)|300|NEW|?
+171|Transmute: Elemental Fire|300|Old|Vendor
+171|Elixir of the Grizzly|300|NEW|Honored;
+171|Major Rejuvenation Potion|300|Old|Drop
+171|Alchemist's Stone (Forever)|300|Old|Vendor
+171|Flask of the Titans|300|Old|Drop
+171|Flask of Supreme Power|300|Old|Drop
+171|Flask of Distilled Wisdom|300|Old|Drop
+171|Flask of Chromatic Resistance|300|Old|Drop
+171|Flask of Petrification|300|Old|Drop
+171|Flask of Natural Accuracy|300|NEW|?
+171|Flask of Natural Aggression|300|NEW|?
+171|Flask of Natural Precision|300|NEW|?
+171|Flask of Natural Swiftness|300|NEW|?
+171|Gurubashi Mojo Madness|315|Old|?
+171|Elixir of Alacrity|315|NEW|?
+171|Elixir of the Honey Badger|315|NEW|?
+171|Elixir of Ancient Knowledge|315|NEW|?
+171|Elixir of the Ironside|315|NEW|?
+171|Elixir of the Mage-Lord|315|NEW|?
+171|Flask of Unyielding Sorrow|315|NEW|?
+171|Flask of Madness|315|NEW|?
+185|Basic Campfire Kit|1|NEW|Automatic
+185|Charred Wolf Meat|1|Old|Automatic
+185|Roasted Boar Meat|1|Old|Automatic
+185|Herb Baked Egg|1|Old|Automatic
+185|Brilliant Smallfish|1|Old|Vendor
+185|Slitherskin Mackerel|1|Old|Vendor
+185|Crispy Bat Wing|1|Old|Vendor
+185|Gingerbread Cookie|1|Old|Vendor
+185|Spiced Wolf Meat|10|Old|Trainer
+185|Kaldorei Spider Kabob|10|Old|Quest
+185|Scorpid Surprise|20|Old|Vendor
+185|Cooking Fire (ability)|25|Old|Trainer
+185|Venomous Smoothie|25|NEW|?
+185|Skywall Souffle|25|NEW|Quest
+185|Peace Tea|25|NEW|Drop
+185|Tasty Raptor Bites|25|NEW|Drop
+185|Beer Basted Boar Ribs|25|Old|Quest
+185|Pincer Bites|35|NEW|Vendor
+185|Roasted Kodo Meat|25|Old|Vendor
+185|Winter Veil Egg Nog#Classic|35|Old|Vendor
+185|Smoked Bear Meat|40|Old|Vendor
+185|Longjaw Mud Snapper|50|Old|Vendor
+185|Rainbow Fin Albacore|50|Old|Vendor
+185|Boiled Clams|50|Old|Trainer
+185|Strider Stew|50|Old|Quest
+185|Coyote Steak|50|Old|Trainer
+185|Fillet of Frenzy|50|Old|Vendor
+185|Loch Frenzy Delight|50|Old|Vendor
+185|Goretusk Liver Pie|50|Old|Quest
+185|Thistle Tea|60|Old|Quest
+185|Blood Sausage|60|Old|Quest
+185|Breakfast Omelette|75|NEW|Drop
+185|Twice-Spiced Raptor Slice|75|NEW|Quest
+185|Crab Cake|75|Old|Trainer
+185|Westfall Stew|75|Old|Quest
+185|Critter Cookie|80|NEW|?
+185|Smoked Sagefish|80|Old|Vendor
+185|Dry Pork Ribs|80|Old|Trainer
+185|Crocolisk Steak|80|Old|Quest
+185|Savory Whimsyfin Delight|85|NEW|Drop
+185|Savory Deviate Delight|85|Old|Drop
+185|Cooked Crab Claw|85|Old|Vendor
+185|Journeyman Campfire Kit|90|NEW|Drop
+185|Clam Chowder|90|Old|Vendor
+185|Murloc Fin Soup|90|Old|Quest
+185|Dig Rat Stew|90|Old|Quest
+185|Slimy Smoothie|100|NEW|?
+185|Royal Tea (Forever)|100|NEW|Drop
+185|Redridge Goulash|100|Old|Quest
+185|Bristle Whisker Catfish|100|Old|Vendor
+185|Seasoned Wolf Kabob|100|Old|Quest
+185|Crispy Lizard Tail|100|Old|Vendor
+185|Succulent Pork Ribs|110|Old|Drop
+185|Gooey Spider Cake|110|Old|Quest
+185|Lean Venison|110|Old|Vendor
+185|Big Bear Steak|110|Old|Quest
+185|Crocolisk Gumbo|120|Old|Quest
+185|Mrrggl Smrrthle|125|NEW|?
+185|Root Tea|125|NEW|Drop
+185|Goblin Deviled Clams|150|Old|Trainer
+185|Lean Wolf Steak|125|Old|Vendor
+185|Hot Lion Chops|125|Old|Quest
+185|Curiously Tasty Omelet|130|Old|Quest
+185|Cookie's Feast|140|NEW|Drop
+185|Heavy Crocolisk Stew|150|Old|Vendor
+185|Tasty Lion Steak|150|Old|Quest
+185|Rockscale Cod|175|Old|Vendor
+185|Giant Scrambled Eggs|175|NEW|?
+185|Bear Brisket|175|NEW|Drop
+185|Mithril Headed Trout|175|Old|Vendor
+185|Jungle Stew|175|Old|Vendor
+185|Sagefish Delight|175|Old|Vendor
+185|Hot Wolf Ribs|175|Old|Vendor
+185|Carrion Surprise|175|Old|Vendor
+185|Barbecued Buzzard Wing|175|Old|Quest
+185|Roast Raptor|175|Old|Vendor
+185|Soothing Turtle Bisque|175|Old|Quest
+185|Giant Clam Scorcho|175|Old|Vendor
+185|Mystery Stew|175|Old|Vendor
+185|Calcified Smoothie|180|NEW|?
+185|Triage Tea|180|NEW|?
+185|Raging Raptor Ribs|180|NEW|?
+185|Plain Ol' Paletusk|185|NEW|Vendor
+185|Expert Campfire Kit|200|NEW|?
+185|Spicy Smoothie|200|NEW|?
+185|Briny Seafood Stew|200|NEW|?
+185|Sunny Tea|200|NEW|?
+185|Dragonbreath Chili|200|Old|Vendor
+185|Spider Sausage|200|Old|Trainer
+185|Heavy Kodo Stew|200|Old|Vendor
+185|Spinefin Halibut|210|NEW|?
+185|Goldthorn Tea|215|Old|?
+185|Savory Stag Sliders|225|NEW|?
+185|Raptor Rouladen|225|NEW|?
+185|Plated Armorfish|225|NEW|?
+185|Spotted Yellowtail|225|Old|Vendor
+185|Filet of Redgill|225|Old|Vendor
+185|Cooked Glossy Mightfish|225|Old|Vendor
+185|Spiced Chili Crab|225|Old|Vendor
+185|Tender Wolf Steak|225|Old|Vendor
+185|Undermine Clam Chowder|225|Old|Vendor
+185|Monster Omelet|225|Old|Vendor
+185|Grilled Squid|240|Old|Vendor
+185|Hot Smoked Bass|240|Old|Vendor
+185|Wicked Smoothie|250|NEW|?
+185|Filet o' Flank|250|Old|?
+185|Prowler Steak|250|Old|?
+185|Sunrise Omelette|250|Old|?
+185|Sage's Tea|250|NEW|?
+185|Poached Sunscale Salmon|250|Old|Vendor
+185|Nightfin Soup|250|Old|Vendor
+185|Sweetpaw Jam|275|NEW|Vendor
+185|Steaming Stag Steak|275|NEW|?
+185|Bear Bruscitti|275|NEW|?
+185|Bat Hachee|275|NEW|?
+185|Prehistoric Pulled Raptor|275|NEW|?
+185|Savory Turtle Stew|275|NEW|?
+185|Swiftstrike Steak|275|NEW|?
+185|Soaring Pamplona|275|NEW|?
+185|Clam Linguine|275|NEW|?
+185|Flank au Poivre|275|NEW|?
+185|Baked Salmon|275|Old|Vendor
+185|Mightfish Steak|275|Old|Vendor
+185|Lobster Stew|275|Old|Vendor
+185|Runn Tum Tuber Surprise|275|Old|Drop
+185|Grand Lobster Banquet|280|NEW|?
+185|Specklefin Feast|280|NEW|?
+185|Iron Oven|300|NEW|?
+185|Dirge's Kickin' Chimaerok Chops|300|Old|Quest
+185|Darkclaw Bisque|300|NEW|Vendor
+185|Smoked Redgill|300|NEW|Vendor
+185|Smoked Desert Dumplings|325|Old|?
+197|White Linen Shirt|1|Old|Trainer
+197|Linen Bag|5|Old|Trainer
+197|Linen Reagent Bag|5|NEW|Vendor
+197|Brown Linen Vest|10|Old|Trainer
+197|Linen Belt|15|Old|Trainer
+197|Faction Banner|20|NEW|Quest
+197|Simple Linen Boots|20|Old|Trainer
+197|Bolt of Linen Cloth|25|Old|?
+197|Blue Linen Shirt|25|Old|Trainer
+197|Brown Linen Pants|25|Old|Trainer
+197|Brown Linen Robe|25|Old|Trainer
+197|Heavy Linen Gloves|25|Old|Trainer
+197|Red Linen Robe|25|Old|Drop
+197|Red Linen Shirt|25|Old|Trainer
+197|Simple Dress|25|Old|Trainer
+197|White Linen Robe|25|Old|Trainer
+197|Brown Linen Shirt|35|Old|?
+197|Linen Cloak|35|Old|?
+197|Novice Arcanist's Sash|35|NEW|Trainer
+197|Novice Ardent's Sash|35|NEW|Trainer
+197|Blue Linen Vest|35|Old|Vendor
+197|Green Linen Bracers|35|Old|Trainer
+197|Red Linen Vest|35|Old|Drop
+197|Reinforced Linen Cape|35|Old|Trainer
+197|Simple Linen Pants|40|Old|?
+197|Barbaric Linen Vest|40|Old|Trainer
+197|Green Linen Shirt|40|Old|Trainer
+197|Linen Boots|40|Old|Trainer
+197|Blue Linen Robe|45|Old|Vendor
+197|Handstitched Linen Britches|45|Old|Trainer
+197|Azure Stormsewn Cord|50|NEW|Vendor
+197|Azure Stormsewn Cuffs|50|NEW|Vendor
+197|Cloudy Stormsewn Cord|50|NEW|Vendor
+197|Cloudy Stormsewn Cuffs|50|NEW|Vendor
+197|Red Linen Bag|50|Old|Drop
+197|Simple Kilt|50|Old|Trainer
+197|Woolen Bag|50|Old|Trainer
+197|Azure Stormsewn Handwraps|55|NEW|Vendor
+197|Azure Stormsewn Shoes|55|NEW|Vendor
+197|Cloudy Stormsewn Handwraps|55|NEW|Vendor
+197|Cloudy Stormsewn Shoes|55|NEW|Vendor
+197|Bolt of Woolen Cloth|55|Old|Trainer
+197|Soft-soled Linen Boots|55|Old|Trainer
+197|Woolen Cape|55|Old|Trainer
+197|Azure Stormsewn Leggings|60|NEW|Vendor
+197|Azure Stormsewn Vest|60|NEW|Vendor
+197|Cloudy Stormsewn Leggings|60|NEW|Vendor
+197|Cloudy Stormsewn Vest|60|NEW|Vendor
+197|Flame Boots|60|NEW|Vendor
+197|Green Woolen Vest|60|Old|Trainer
+197|Heavy Woolen Gloves|60|Old|Trainer
+197|Pearly Boots|60|NEW|Vendor
+197|Pristine Boots|60|NEW|Vendor
+197|Shadow Boots|60|NEW|Vendor
+197|Shining Boots|60|NEW|Vendor
+197|Silky Boots|60|NEW|Vendor
+197|Woolen Reagent Bag|70|NEW|Vendor
+197|Colorful Kilt|70|Old|Drop
+197|Pearl-clasped Cloak|70|Old|Trainer
+197|Woolen Boots|70|Old|Trainer
+197|Filigreed Flame Gown|75|NEW|Drop
+197|Filigreed Pearly Gown|75|NEW|Drop
+197|Filigreed Pristine Gown|75|NEW|Drop
+197|Filigreed Shadow Gown|75|NEW|Drop
+197|Filigreed Shining Gown|75|NEW|Drop
+197|Filigreed Silky Gown|75|NEW|Drop
+197|Red Woolen Boots|75|Old|Drop
+197|Blue Overalls|75|Old|Vendor
+197|Flame Gloves|75|NEW|Vendor
+197|Green Woolen Bag|75|Old|Drop
+197|Pearly Gloves|75|NEW|Vendor
+197|Pristine Gloves|75|NEW|Vendor
+197|Shadow Gloves|75|NEW|Vendor
+197|Shining Gloves|75|NEW|Vendor
+197|Silky Gloves|75|NEW|Vendor
+197|Gray Woolen Shirt|80|Old|Trainer
+197|Gray Woolen Robe|80|Old|Drop
+197|Heavy Woolen Cloak|80|Old|Drop
+197|Double-stitched Woolen Shoulders|85|Old|Trainer
+197|Flame Sash|85|NEW|Vendor
+197|Heavy Woolen Pants|85|Old|Trainer
+197|Pearly Sash|85|NEW|Vendor
+197|Pristine Sash|85|NEW|Vendor
+197|Shadow Sash|85|NEW|Vendor
+197|Shining Sash|85|NEW|Vendor
+197|Silky Sash|85|NEW|Vendor
+197|Stylish Red Shirt|85|Old|Trainer
+197|White Woolen Dress|85|Old|Trainer
+197|Greater Adept's Robe|90|Old|Vendor
+197|Red Woolen Bag|90|Old|Drop
+197|Reinforced Woolen Shoulders|95|Old|Drop
+197|Stylish Blue Shirt|95|Old|Drop
+197|Stylish Green Shirt|95|Old|Drop
+197|Filigreed Flame Leggings|100|NEW|Drop
+197|Filigreed Pearly Leggings|100|NEW|Drop
+197|Filigreed Pristine Leggings|100|NEW|Drop
+197|Filigreed Shadow Leggings|100|NEW|Drop
+197|Filigreed Shining Leggings|100|NEW|Drop
+197|Filigreed Silky Leggings|100|NEW|Drop
+197|Bolt of Silk Cloth|100|Old|Trainer
+197|Flame Circlet|100|NEW|Vendor
+197|Pearly Circlet|100|NEW|Vendor
+197|Phoenix Gloves|100|Old|Drop
+197|Phoenix Pants|100|Old|Drop
+197|Pristine Circlet|100|NEW|Vendor
+197|Shadow Circlet|100|NEW|Vendor
+197|Shining Circlet|100|NEW|Vendor
+197|Silky Circlet|100|NEW|Vendor
+197|Spidersilk Boots|100|Old|Trainer
+197|Gloves of Meditation|105|Old|Trainer
+197|Bright Yellow Shirt|110|Old|Vendor
+197|Flame Gown|110|NEW|Vendor
+197|Lesser Wizard's Robe|110|Old|Trainer
+197|Pearly Gown|110|NEW|Vendor
+197|Pristine Gown|110|NEW|Vendor
+197|Shadow Gown|110|NEW|Vendor
+197|Shining Gown|110|NEW|Vendor
+197|Silky Gown|110|NEW|Vendor
+197|Spider Silk Slippers|115|Old|Drop
+197|Azure Silk Pants|115|Old|Trainer
+197|Azure Silk Hood|120|Old|Trainer
+197|Dark Silk Shirt|120|Old|Vendor
+197|Azure Silk Gloves|120|Old|Vendor
+197|Hands of Darkness|120|Old|Drop
+197|Phoenix Bindings|125|Old|Vendor
+197|Filigreed Flame Circlet|125|NEW|Drop
+197|Filigreed Pearly Circlet|125|NEW|Drop
+197|Filigreed Pristine Circlet|125|NEW|Drop
+197|Filigreed Shadow Circlet|125|NEW|Drop
+197|Filigreed Shining Circlet|125|NEW|Drop
+197|Filigreed Silky Circlet|125|NEW|Drop
+197|Silk Reagent Bag|125|NEW|Quest
+197|Silk Headband|125|Old|Trainer
+197|White Swashbuckler's Shirt|125|Old|Trainer
+197|Azure Silk Vest|125|Old|Trainer
+197|Flame Leggings|125|NEW|Vendor
+197|Pearly Leggings|125|NEW|Vendor
+197|Pristine Leggings|125|NEW|Vendor
+197|Robes of Arcana|125|Old|Drop
+197|Shadow Leggings|125|NEW|Vendor
+197|Shining Leggings|125|NEW|Vendor
+197|Silky Leggings|125|NEW|Vendor
+197|Small Silk Pack|125|Old|Trainer
+197|Truefaith Gloves|125|Old|Drop
+197|Enchanter's Cowl|130|Old|Vendor
+197|Green Silk Armor|130|Old|Drop
+197|Formal White Shirt|135|Old|Trainer
+197|Earthen Vest|135|Old|Trainer
+197|Shadow Hood|135|Old|Drop
+197|Spinning Wheel|140|NEW|Drop
+197|Bolt of Mageweave|140|Old|Trainer
+197|White Wedding Dress|140|Old|Vendor
+197|Red Swashbuckler's Shirt|140|Old|Trainer
+197|Tuxedo Jacket|140|Old|Vendor
+197|Azure Silk Belt|140|Old|Trainer
+197|Azure Silk Cloak|140|Old|Vendor
+197|Boots of the Enchanter|140|Old|Drop
+197|Crimson Silk Belt|140|Old|Trainer
+197|Earthen Leggings|140|NEW|?
+197|Green Silk Pack|140|Old|Drop
+197|Tuxedo Pants|140|Old|Vendor
+197|Crimson Silk Cloak|145|Old|Vendor
+197|Earthen Silk Slippers|145|NEW|?
+197|Green Silken Shoulders|145|Old|Trainer
+197|Spider Belt|145|Old|Drop
+197|Black Slippers|150|NEW|Trainer
+197|Fiery Slippers|150|NEW|Trainer
+197|Frothing Slippers|150|NEW|Trainer
+197|Gilded Slippers|150|NEW|Trainer
+197|Golden Slippers|150|NEW|Trainer
+197|Radiant Slippers|150|NEW|Trainer
+197|Extraplanar Spidersilk Boots|150|Old|?
+197|Rich Purple Silk Shirt|150|Old|Drop
+197|Crimson Silk Vest|150|Old|Trainer
+197|Black Silk Pack|150|Old|Drop
+197|Earthen Silk Hood|150|NEW|?
+197|Invoker's Cord|150|Old|Drop
+197|Invoker's Mantle|150|Old|Drop
+197|Long Silken Cloak|150|Old|Trainer
+197|Green Holiday Shirt|155|Old|Drop
+197|Azure Shoulders|155|Old|Drop
+197|Crimson Silk Shoulders|155|Old|Drop
+197|Robe of Power|155|Old|Trainer
+197|Crimson Silk Pantaloons|160|Old|Trainer
+197|Earthen Silk Belt|160|Old|Drop
+197|Earthen Silk Gloves|160|NEW|?
+197|Black Swashbuckler's Shirt|165|Old|Vendor
+197|Black Handwraps|165|NEW|Vendor
+197|Earthen Silk Cuffs|165|NEW|Drop
+197|Enchanter's Cowl|165|Old|Vendor
+197|Fiery Handwraps|165|NEW|Vendor
+197|Frothing Handwraps|165|NEW|Vendor
+197|Gilded Handwraps|165|NEW|?
+197|Golden Handwraps|165|NEW|Vendor
+197|Icy Cloak|165|Old|Vendor
+197|Radiant Handwraps|165|NEW|Vendor
+197|Star Belt|165|Old|Drop
+197|Black Mageweave Leggings|170|Old|Trainer
+197|Black Mageweave Vest|170|Old|Trainer
+197|Crimson Silk Robe|170|Old|Vendor
+197|Earthen Silk Shoulders|170|NEW|Drop
+197|Earthen Vest|170|Old|Trainer
+197|Azure Stormsewn Cowl|175|NEW|Vendor
+197|Azure Stormsewn Epaulets|175|NEW|Vendor
+197|Cloudy Stormsewn Cowl|175|NEW|Vendor
+197|Cloudy Stormsewn Epaulets|175|NEW|Vendor
+197|Black Mageweave Robe|175|Old|Trainer
+197|Crimson Silk Gloves|175|Old|Trainer
+197|Shadoweave Pants|175|Old|Trainer
+197|Boots of the Enchanter|175|Old|Drop
+197|Crimson Silk Belt|175|Old|Trainer
+197|Orange Mageweave Shirt|180|Old|Trainer
+197|White Bandit Mask|180|Old|Drop
+197|Black Mageweave Gloves|180|Old|Trainer
+197|Red Mageweave Pants|180|Old|Drop
+197|Red Mageweave Vest|180|Old|Drop
+197|Shadoweave Robe|180|Old|Trainer
+197|Orange Martial Shirt|185|Old|Vendor
+197|Long Silken Cloak|185|Old|Trainer
+197|Black Cord|190|NEW|?
+197|Fiery Cord|190|NEW|?
+197|Frothing Cord|190|NEW|?
+197|Gilded Cord|190|NEW|?
+197|Golden Cord|190|NEW|?
+197|Radiant Cord|190|NEW|?
+197|Lavender Mageweave Shirt|190|Old|Vendor
+197|Mageweave Reagent Bag|190|NEW|Vendor
+197|Black Mageweave Boots|190|Old|Trainer
+197|Black Mageweave Headband|190|Old|Trainer
+197|Black Mageweave Shoulders|190|Old|Trainer
+197|Cindercloth Robe|190|Old|Trainer
+197|Dreamweave Gloves|190|Old|Trainer
+197|Dreamweave Vest|190|Old|Trainer
+197|Enchanted Mageweave Pouch|190|Old|Vendor
+197|Mageweave Bag|190|Old|Trainer
+197|Red Mageweave Gloves|190|Old|Drop
+197|Shadoweave Gloves|190|Old|Trainer
+197|Crimson Silk Shoulders|190|Old|Drop
+197|Pink Mageweave Shirt|195|Old|Vendor
+197|Simple Black Dress|195|Old|Trainer
+197|Netherflame Shoulders|195|NEW|Vendor
+197|Netherfroth Shoulders|195|NEW|Vendor
+197|Nethergeld Shoulders|195|NEW|Vendor
+197|Netherlight Shoulders|195|NEW|Vendor
+197|Netherpearl Shoulders|195|NEW|Vendor
+197|Nethershine Shoulders|195|NEW|Vendor
+197|Red Mageweave Bag|195|Old|Trainer
+197|Red Mageweave Shoulders|195|Old|Drop
+197|Shadoweave Shoulders|195|Old|Trainer
+197|Earthen Silk Belt|195|Old|Drop
+197|Hyperconductive Arcano-Filament|200|Old|Vendor
+197|Tuxedo Shirt|200|Old|Vendor
+197|Cindercloth Boots|200|Old|Trainer
+197|Red Mageweave Headband|200|Old|Drop
+197|Shadoweave Boots|200|Old|Trainer
+197|Bolt of Runecloth|205|Old|Trainer
+197|Black Mageweave Leggings|205|Old|Trainer
+197|Black Mageweave Vest|205|Old|Trainer
+197|Crimson Silk Robe|205|Old|Vendor
+197|Dreamweave Circlet|205|Old|Trainer
+197|Netherflame Cuffs|205|NEW|Vendor
+197|Netherfroth Cuffs|205|NEW|Vendor
+197|Nethergeld Cuffs|205|NEW|Vendor
+197|Netherlight Cuffs|205|NEW|Vendor
+197|Netherpearl Cuffs|205|NEW|Vendor
+197|Nethershine Cuffs|205|NEW|Vendor
+197|Frostweave Robe|210|Old|Drop
+197|Frostweave Tunic|210|Old|Drop
+197|Runecloth Belt|210|Old|Trainer
+197|Black Waistcord|215|NEW|Vendor
+197|Cindercloth Vest|215|Old|Drop
+197|Earthenweave Cord|215|NEW|?
+197|Earthenweave Gloves|215|NEW|?
+197|Fiery Waistcord|215|NEW|Vendor
+197|Frostweave Gloves|215|Old|Drop
+197|Frothing Waistcord|215|NEW|Vendor
+197|Ghostweave Cord|215|NEW|?
+197|Gilded Waistcord|215|NEW|Vendor
+197|Golden Waistcord|215|NEW|Vendor
+197|Radiant Waistcord|215|NEW|Vendor
+197|Runecloth Bag|215|Old|Vendor
+197|Runecloth Reagent Bag|215|NEW|Vendor
+197|Runecloth Robe|215|Old|Vendor
+197|Runecloth Tunic|215|Old|Drop
+197|Soul Pouch|215|Old|Vendor
+197|Ghostweave Belt|220|Old|Drop
+197|Runecloth Cloak|220|Old|Vendor
+197|Gneuro-Linked Arcano-Filament Monocle|225|Old|Vendor
+197|Brightcloth Gloves|225|Old|Drop
+197|Brightcloth Robe|225|Old|Drop
+197|Cindercloth Gloves|225|Old|Drop
+197|Earthenweave Boots|225|NEW|?
+197|Ghostweave Gloves|225|Old|Drop
+197|Ghostweave Vest|225|Old|Drop
+197|Brightcloth Cloak|230|Old|Drop
+197|Cenarion Herb Bag|230|Old|Vendor
+197|Cindercloth Cloak|230|Old|Drop
+197|Enchanted Runecloth Bag|230|Old|Vendor
+197|Felcloth Pants|230|Old|Vendor
+197|Runecloth Gloves|230|Old|Vendor
+197|Wizardweave Leggings|230|Old|Drop
+197|Mooncloth|230|Old|Vendor
+197|Black Gloves|235|NEW|?
+197|Fiery Gloves|235|NEW|?
+197|Frothing Gloves|235|NEW|?
+197|Gilded Gloves|235|NEW|?
+197|Golden Gloves|235|NEW|?
+197|Radiant Gloves|235|NEW|?
+197|Black Sandals|235|NEW|Vendor
+197|Cindercloth Pants|235|Old|Drop
+197|Fiery Sandals|235|NEW|Vendor
+197|Frostweave Pants|235|Old|Drop
+197|Frothing Sandals|235|NEW|Vendor
+197|Gilded Sandals|235|NEW|Vendor
+197|Golden Sandals|235|NEW|Vendor
+197|Radiant Sandals|235|NEW|Vendor
+197|Runecloth Boots|235|Old|Vendor
+197|Admiral's Hat|240|Old|Vendor
+197|Earthenweave Mantle|240|NEW|?
+197|Felcloth Boots|240|Old|Drop
+197|Runecloth Pants|240|Old|Drop
+197|Shadoweave Mask|245|Old|Quest
+197|Brightcloth Pants|245|Old|Drop
+197|Earthenweave Leggings|245|NEW|?
+197|Felcloth Hood|245|Old|Drop
+197|Ghostweave Pants|245|Old|Drop
+197|Robe of Winter Night|245|Old|Drop
+197|Mooncloth Leggings|245|Old|Drop
+197|Festival Dress|250|Old|Quest
+197|Festival Suit|250|Old|Quest
+197|Fractured Mind Pauldrons|250|Old|?
+197|Mantle of Insanity|250|Old|?
+197|Shoulderpads of the Deranged|250|Old|?
+197|Green Winter Clothes|250|NEW|?
+197|Red Winter Clothes|250|NEW|?
+197|Crusader's Knapsack|250|Old|?
+197|Scarlet Augur's Cuffs|250|Old|Drop
+197|Scarlet Augur's Strap|250|Old|Drop
+197|Earthenweave Vest|250|NEW|?
+197|Ghostweave Mantle|250|NEW|?
+197|Runecloth Cuffs|250|NEW|Vendor
+197|Runecloth Headband|250|Old|Drop
+197|Ghostweave Boots|255|NEW|?
+197|Big Bag of Enchantment|255|Old|Drop
+197|Earthenweave Cuffs|255|NEW|?
+197|Mooncloth Bag|255|Old|Drop
+197|Mooncloth Reagent Bag|255|NEW|Vendor
+197|Satchel of Cenarius|255|Old|Vendor
+197|Wisdom of the Timbermaw|255|Old|Vendor
+197|Wizardweave Robe|255|Old|Drop
+197|Scarlet Augur's Mitts|260|Old|Drop
+197|Scarlet Augur's Soles|260|Old|Drop
+197|Earthenweave Crown|260|NEW|?
+197|Felcloth Robe|260|Old|Drop
+197|Ghostweave Hood|260|NEW|?
+197|Runecloth Shoulders|260|Old|Drop
+197|Wizardweave Turban|260|Old|Drop
+197|Felcloth Shoulders|265|Old|Drop
+197|Scarlet Augur's Leggings|270|Old|Drop
+197|Mooncloth Vest|270|Old|Drop
+197|Cloak of Fire|275|Old|Drop
+197|Mooncloth Robe|275|Old|Vendor
+197|Mooncloth Shoulders|275|Old|Drop
+197|Scarlet Augur's Hood|280|Old|Drop
+197|Scarlet Augur's Mantle|280|Old|Drop
+197|Scarlet Augur's Vestments|280|Old|Drop
+197|Cloak of Warding|280|Old|Drop
+197|Felcloth Gloves|280|Old|Drop
+197|Inferno Gloves|280|Old|Drop
+197|Mooncloth Circlet|280|Old|Drop
+197|Mooncloth Gloves|280|Old|Drop
+197|Felcloth Bag|285|Old|?
+197|Gordok Ogre Suit|285|Old|?
+197|Synthetic Gordok Ogre Suit|285|Old|?
+197|Mooncloth Boots|285|Old|Quest
+197|Swarmtender's Gloves|285|NEW|Vendor
+197|Venomspew Gloves|285|NEW|Vendor
+197|Runed Stygian Belt|285|Old|Drop
+197|Runed Stygian Boots|285|Old|Drop
+197|Runed Stygian Leggings|285|Old|Drop
+197|Argent Boots|290|Old|Vendor
+197|Swarmtender's Cord|290|NEW|Vendor
+197|Venomspew Cord|290|NEW|Vendor
+197|Crimson Dawnwoven Bag|290|Old|?
+197|Mantle of the Timbermaw|290|Old|Vendor
+197|Incandescent Mooncloth Leggings|290|Old|Drop
+197|Swarmtender's Footpads|295|NEW|Vendor
+197|Venomspew Footpads|295|NEW|Vendor
+197|Belt of the Archmage|295|Old|Drop
+197|Gloves of Spell Mastery|295|Old|Drop
+197|Robe of the Archmage|295|Old|Drop
+197|Robe of the Void|295|Old|Drop
+197|Truefaith Vestments|295|Old|Drop
+197|Loom (Camping)|300|NEW|?
+197|Argent Shoulders|300|Old|Vendor
+197|Cloak of Earth and Sky|300|NEW|?
+197|Fel Cape|300|NEW|?
+197|Felblood Soul Bag|300|NEW|?
+197|Mana-infused Cord|300|NEW|?
+197|Rime-encrusted Boots|300|NEW|?
+197|Robes of Fiery Devastation|300|NEW|?
+197|Bloodvine Boots|300|Old|Vendor
+197|Bloodvine Leggings|300|Old|Vendor
+197|Bloodvine Vest|300|Old|Vendor
+197|Bottomless Bag|300|Old|Drop
+197|Bottomless Bag|300|Old|Drop
+197|Bottomless Reagent Bag|300|NEW|?
+197|Core Felcloth Bag|300|Old|Drop
+197|Embroidered Belt of the Archmage|300|Old|Drop
+197|Flarecore Gloves|300|Old|Vendor
+197|Flarecore Leggings|300|Old|Vendor
+197|Flarecore Mantle|300|Old|Vendor
+197|Flarecore Robe|300|Old|Vendor
+197|Gaea's Embrace|300|Old|Vendor
+197|Glacial Cloak|300|Old|?
+197|Glacial Gloves|300|Old|?
+197|Glacial Vest|300|Old|?
+197|Glacial Wrists|300|Old|?
+197|Incandescent Mooncloth Circlet|300|Old|Drop
+197|Incandescent Mooncloth Robe|300|Old|Vendor
+197|Incandescent Mooncloth Vest|300|Old|Drop
+197|Leather-Reinforced Runecloth Bag|300|Old|Vendor
+197|Sylvan Crown|300|Old|Vendor
+197|Sylvan Shoulders|300|Old|Vendor
+197|Sylvan Vest|300|Old|Vendor
+197|Boots of Conviction|300|NEW|Vendor
+197|Demonheart Boots|300|NEW|Vendor
+197|Demonheart Gloves|300|NEW|Vendor
+197|Demonheart Leggings|300|NEW|Vendor
+197|Demonheart Spaulders|300|NEW|Vendor
+197|Gloves of Conviction|300|NEW|Vendor
+197|Handguards of Conviction|300|NEW|Vendor
+197|Leggings of Conviction|300|NEW|Vendor
+197|Manaflare Boots|300|NEW|Vendor
+197|Manaflare Gloves|300|NEW|Vendor
+197|Manaflare Mantle|300|NEW|Vendor
+197|Manaflare Pants|300|NEW|Vendor
+197|Mantle of Conviction|300|NEW|Vendor
+197|Pants of Conviction|300|NEW|Vendor
+197|Pauldrons of Conviction|300|NEW|Vendor
+197|Treads of Conviction|300|NEW|Vendor
+197|Flarecore Wraps|300|Old|Drop
+197|Bolt of Qiraji Silk|315|Old|?
+197|Frosty Gloves|315|Old|?
+197|Frosty Vest|315|Old|?
+197|Frosty Wrists|315|Old|?
+197|Glacial Cloak|315|Old|?
+197|Glacial Gloves|315|Old|?
+197|Glacial Vest|315|Old|?
+197|Glacial Wrists|315|Old|?
+197|Sylvan Crown|315|Old|?
+197|Sylvan Shoulders|315|Old|?
+197|Sylvan Vest|315|Old|?
+197|Vampiric Cowl|315|Old|?
+197|Vampiric Robe|315|Old|?
+197|Vampiric Shawl|315|Old|?
+197|Dreamscale Bracers|320|Old|?
+197|Dreamscale Mitts|320|Old|?
+197|Qiraji Silk Cape|320|Old|?
+197|Qiraji Silk Cloak|320|Old|?
+197|Qiraji Silk Drape|320|Old|?
+197|Qiraji Silk Scarf|320|Old|?
+202|Rough Blasting Powder|1|Old|?
+202|Reagent Bot|20|NEW|Quest
+202|SAF-T Tabs|25|NEW|Vendor
+202|SAF-T Dynamite|25|NEW|Vendor
+202|Crafted Light Shot|30|Old|?
+202|Rough Dynamite|30|Old|?
+202|Handful of Copper Bolts|30|Old|Trainer
+202|Rough Copper Bomb|30|Old|Trainer
+202|Arclight Spanner|50|Old|Trainer
+202|Copper Tube|50|Old|Trainer
+202|Rough Boomstick|50|Old|Trainer
+202|SAF-T Copper Bomb|55|NEW|Vendor
+202|Crude Scope|60|Old|Trainer
+202|Harvester Override Signalcaster|65|NEW|Drop
+202|Copper Modulator|65|Old|Trainer
+202|Coarse Blasting Powder|75|Old|Trainer
+202|Crafted Heavy Shot|75|Old|Trainer
+202|Coarse Dynamite|75|Old|Trainer
+202|Mechanical Squirrel|75|Old|Drop
+202|Satchel of Copper Bombs|85|NEW|Vendor
+202|Target Dummy|85|Old|Trainer
+202|Silver Contact|90|Old|Trainer
+202|EZ-Thro Wrap|100|NEW|Vendor
+202|EZ-Thro Dynamite|100|Old|Drop
+202|Practice Lock|100|Old|Trainer
+202|Flying Tiger Goggles|100|Old|Trainer
+202|Small Seaforium Charge|100|Old|Drop
+202|Bronze Tube|105|Old|Trainer
+202|Large Copper Bomb|105|Old|Trainer
+202|Deadly Blunderbuss|105|Old|Trainer
+202|Standard Scope|110|Old|Trainer
+202|Small Bronze Bomb|120|Old|Trainer
+202|Sandpaper|120|NEW|Trainer
+202|Lovingly Crafted Boomstick|120|Old|Vendor
+202|Shadow Goggles|120|Old|Drop
+202|9-60 Battery Pack|125|NEW|Drop
+202|Crafted Solid Shot|125|Old|Trainer
+202|Heavy Blasting Powder|125|Old|Trainer
+202|Heavy Dynamite|125|Old|Trainer
+202|Small Blue Rocket|125|Old|?
+202|Small Green Rocket|125|Old|?
+202|Small Purple Rocket|125|NEW|?
+202|Small Red Rocket|125|Old|?
+202|Small White Rocket|125|NEW|?
+202|Small Yellow Rocket|125|NEW|?
+202|Flame Deflector|125|Old|Drop
+202|Whirring Bronze Gizmo|125|Old|Trainer
+202|Gnomish Universal Remote|125|Old|Drop
+202|EZ-Thro Copper Bomb XL|130|NEW|Vendor
+202|Silver-plated Shotgun|130|Old|Trainer
+202|Shredder Autosalvage Unit|135|Old|Drop
+202|Ornate Spyglass|135|Old|Trainer
+202|Repair Bot (Camping)|140|NEW|Drop
+202|Big Bronze Bomb|140|Old|Trainer
+202|Hoof-Shaped Foot Pedal|140|NEW|Quest
+202|Minor Recombobulator|140|Old|Drop
+202|No Slip SAF-T Padding|145|NEW|Vendor
+202|Bronze Framework|145|Old|Trainer
+202|SAF-T Bronze Bomb|145|NEW|Drop
+202|Moonsight Rifle|145|Old|Drop
+202|Aquadynamic Fish Attractor|150|Old|Trainer
+202|SAF-T Jumbo Dynamite|150|NEW|?
+202|Blue Firework|150|Old|Vendor
+202|Green Firework|150|Old|Vendor
+202|Red Firework|150|Old|Vendor
+202|Gold Power Core|150|Old|Trainer
+202|Explosive Sheep|150|Old|Trainer
+202|Green Tinted Goggles|150|Old|Trainer
+202|Ice Deflector|155|Old|Vendor
+202|Iron Strut|160|Old|Trainer
+202|Discombobulator Ray|160|Old|Drop
+202|Goblin Jumper Cables|165|Old|Drop
+202|Satchel of Bronze Bombs|165|NEW|Vendor
+202|Portable Bronze Mortar|165|Old|Drop
+202|Gyrochronatom|170|Old|Trainer
+202|SAF-T Bell|175|NEW|Vendor
+202|Solid Blasting Powder|175|Old|Trainer
+202|Solid Dynamite|175|Old|Trainer
+202|Large Blue Rocket|175|Old|?
+202|Large Green Rocket|175|Old|?
+202|Large Purple Rocket|175|NEW|?
+202|Large Red Rocket|175|Old|?
+202|Large White Rocket|175|NEW|?
+202|Large Yellow Rocket|175|NEW|?
+202|Compact Harvest Reaper Kit|175|Old|Trainer
+202|Gyromatic Micro-Adjustor|175|Old|Trainer
+202|Iron Grenade|175|Old|Trainer
+202|Clanking Cord|175|NEW|Vendor
+202|Gizmo Girdle|175|NEW|Vendor
+202|Serrated Strap|175|NEW|?
+202|Whimsical Waistwrap|175|NEW|Vendor
+202|Bright-Eye Goggles|175|Old|Drop
+202|Shafety Sheep|175|NEW|?
+202|Accurate Scope|180|Old|Vendor
+202|Advanced Target Dummy|185|Old|Trainer
+202|Flash Bomb|185|Old|Drop
+202|Craftsman's Monocle|185|Old|Drop
+202|EZ-Thro Fireproof Fuse|190|NEW|Vendor
+202|Centaur Banner Deployment Device|190|NEW|Quest
+202|Big Iron Bomb|190|Old|Trainer
+202|Snowmaster 9000|190|Old|Drop
+202|EZ-Thro Bronze Mortar|190|NEW|?
+202|Mithril Tube|195|Old|Trainer
+202|Goblin Land Mine|195|Old|Drop
+202|EZ-Thro Dynamite II|200|Old|Vendor
+202|Polished Truesilver Gears|200|Old|Vendor
+202|EZ-Thro Grenade|200|NEW|?
+202|Large Seaforium Charge|200|Old|Drop
+202|Mechanical Repair Kit|200|Old|Trainer
+202|Unstable Trigger|200|Old|Trainer
+202|Bent Goggles|200|NEW|Vendor
+202|Dented Goggles|200|NEW|Vendor
+202|Floppy Goggles|200|NEW|Vendor
+202|Stuckbutton Goggles|200|NEW|Vendor
+202|Gnomish Cloaking Device|200|Old|Drop
+202|Mechanical Dragonling|200|Old|Vendor
+202|Goblin Rocket Fuel Recipe|205|Old|Trainer
+202|Inlaid Mithril Cylinder Plans|205|Old|Trainer
+202|Lil' Smoky|205|Old|?
+202|Pet Bombling|205|Old|?
+202|Soul Vessel|205|Old|Vendor
+202|Goblin Sapper Charge|205|Old|Trainer
+202|Fire Goggles|205|Old|Trainer
+202|Gnomish Shrink Ray|205|Old|Trainer
+202|Goblin Construction Helmet|205|Old|Trainer
+202|Goblin Mining Helmet|205|Old|Vendor
+202|Mithril Blunderbuss|205|Old|Trainer
+202|The Mortar: Reloaded|205|Old|?
+202|Hi-Impact Mithril Slugs|210|Old|Trainer
+202|Deadly Scope|210|Old|Vendor
+202|Gnomish Goggles|210|Old|Trainer
+202|Gnomish Net-o-Matic Projector|210|Old|Trainer
+202|SAF-T Casing|215|NEW|?
+202|SAF-T Bomb|215|NEW|?
+202|Mithril Casing|215|Old|Trainer
+202|Mithril Frag Bomb|215|Old|Trainer
+202|Gnomish Harm Prevention Belt|215|Old|Trainer
+202|Catseye Ultra Goggles|220|Old|Drop
+202|Mithril Heavy-bore Rifle|220|Old|Drop
+202|Goblin Mortar|225|Old|?
+202|Ez-Thro Radiation Bomb|225|Old|Vendor
+202|High-Yield Radiation Bomb|225|Old|Vendor
+202|Hyperconductive Goldwap|225|Old|Vendor
+202|Whirling Truesilver Gearwall|225|Old|Vendor
+202|Blue Rocket Cluster|225|Old|?
+202|Green Rocket Cluster|225|Old|?
+202|Purple Rocket Cluster|225|NEW|?
+202|Red Rocket Cluster|225|Old|?
+202|White Rocket Cluster|225|NEW|?
+202|Yellow Rocket Cluster|225|NEW|?
+202|Compact Critter Carrier|225|NEW|Vendor
+202|Emergency Field Cloak|225|NEW|Vendor
+202|Firework Launcher|225|Old|Quest
+202|Gnomish Rocket Boots|225|Old|Trainer
+202|Goblin Rocket Boots|225|Old|Drop
+202|Parachute Cloak|225|Old|Drop
+202|Spellpower Goggles Xtreme|225|Old|Drop
+202|Goblin Bomb Dispenser|230|Old|Trainer
+202|Satchel of Iron Bombs|230|NEW|Vendor
+202|Deepdive Helmet|230|Old|Vendor
+202|Gnomish Battle Chicken|230|Old|Trainer
+202|Rose Colored Goggles|230|Old|Trainer
+202|Hi-Explosive Bomb|235|Old|Trainer
+202|The Big One|235|Old|Trainer
+202|Gnomish Mind Control Cap|235|Old|Trainer
+202|EZ-Thro Tru-Trigger|240|NEW|?
+202|Tru-Trigger Frag Bomb|240|NEW|?
+202|Gnomish Death Ray|240|Old|Trainer
+202|Goblin Dragon Gun|240|Old|Trainer
+202|Sniper Scope|240|Old|Drop
+202|Mithril Gyro-Shot|245|Old|Trainer
+202|Goblin Rocket Helmet|245|Old|Trainer
+202|Green Lens|245|Old|Trainer
+202|Void-Powered Invoker's Vambraces|250|Old|?
+202|Void-Powered Protector's Vambraces|250|Old|?
+202|Void-Powered Slayer's Vambraces|250|Old|?
+202|Gnomish Army Knife|250|NEW|Vendor
+202|Dense Blasting Powder|250|Old|Trainer
+202|Dense Dynamite|250|Old|Trainer
+202|Snake Burst Firework|250|Old|Vendor
+202|Pop-Up Shrub|250|Old|?
+202|Tinkerbox|250|Old|?
+202|Mithril Mechanical Dragonling|250|Old|Vendor
+202|SAF-T Disposable Parachute|250|NEW|Vendor
+202|Salt Shaker|250|Old|Trainer
+202|Creepy Censor Sensors|250|Old|?
+202|World Enlarger|260|Old|Drop
+202|Truesilver Transformer|260|Old|Vendor
+202|Tinkerbox: Magnetic Displacement|260|Old|?
+202|Tinkerbox: Nitro Boosts|260|Old|?
+202|Tinkerbox: Teleport|260|Old|?
+202|Gyrofreeze Ice Reflector|260|Old|Vendor
+202|Thorium Grenade|260|Old|Vendor
+202|Thorium Rifle|260|Old|Drop
+202|Thorium Widget|260|Old|Vendor
+202|Unsanctified Grenade|260|NEW|?
+202|Alarm-O-Bot|265|Old|Drop
+202|Goblin Jumper Cables XL|265|Old|Drop
+202|Lifelike Mechanical Toad|265|Old|Drop
+202|Spellpower Goggles Xtreme Plus|270|Old|Drop
+202|Loot-A-Rang|275|NEW|Vendor
+202|SAF-T Tube|275|NEW|?
+202|Large Blue Rocket Cluster|275|Old|?
+202|Large Green Rocket Cluster|275|Old|?
+202|Large Purple Rocket Cluster|275|NEW|?
+202|Large Red Rocket Cluster|275|Old|?
+202|Large White Rocket Cluster|275|NEW|?
+202|Large Yellow Rocket Cluster|275|NEW|?
+202|Powerful Seaforium Charge|275|Old|Vendor
+202|SAF-T Clever Dynamite|275|NEW|?
+202|Major Recombobulator|275|Old|Drop
+202|Dark Iron Rifle|275|Old|Drop
+202|Firework Cluster Launcher|275|Old|Quest
+202|Masterwork Target Dummy|275|Old|Vendor
+202|Steam Tonk Controller|275|Old|Quest
+202|Thorium Tube|275|Old|Vendor
+202|Tinker: Magnetic Displacement|280|Old|?
+202|Tinker: Nitro Boosts|280|Old|?
+202|Tinker: Teleport|280|Old|?
+202|Dimensional Ripper - Everlook|285|Old|?
+202|Ultrasafe Transporter - Gadgetzan|285|Old|?
+202|EZ-Thro Shell|285|NEW|?
+202|EZ-Thro Thorium Grenade|285|NEW|?
+202|Satchel of Dark Iron Bombs|285|NEW|Vendor
+202|Dark Iron Bomb|285|Old|Drop
+202|Delicate Arcanite Converter|285|Old|Vendor
+202|Thorium Shells|285|Old|Drop
+202|Hyper-Radiant Flame Reflector|290|Old|Drop
+202|Master Engineer's Goggles|290|Old|Drop
+202|Voice Amplification Modulator|290|Old|Drop
+202|Anarchist's Workbench|300|NEW|?
+202|Semisafe Transporter: New Avalon|300|Old|?
+202|Swiftfeather Arrow|300|NEW|?
+202|Swiftstrike Shot|300|NEW|?
+202|Hyper Deluxe Sniper Rifle Mk XVII|300|NEW|?
+202|SAF-T Ultra Precision Scope|300|NEW|?
+202|Arcane Bomb|300|Old|Drop
+202|Arcanite Dragonling|300|Old|Drop
+202|Biznicks 247x128 Accurascope|300|Old|Drop
+202|Bloodvine Goggles|300|Old|Vendor
+202|Bloodvine Lens|300|Old|Vendor
+202|Core Marksman Rifle|300|Old|Drop
+202|Dimensional Transporter - Mt. Hyjal|300|NEW|Vendor
+202|EZ and SAF Field Transporter: Mt. Hyjal|300|NEW|?
+202|EZ-Thro Dark Bomb|300|NEW|?
+202|EZ-Thro Field Transporter: Gadgetzan|300|NEW|?
+202|EZ-Thro Magnetic Displacer|300|NEW|?
+202|EZ-Thro Mana Bomb|300|NEW|?
+202|Field Repair Bot 74A|300|Old|?
+202|Flawless Arcanite Rifle|300|Old|Drop
+202|Force Reactive Disk|300|Old|Drop
+202|Gnomish Poultryizer|300|NEW|Vendor
+202|Gnomish Weather Machine|300|NEW|?
+202|SAF-T Emergency Ripper: Everlook|300|NEW|?
+202|SAF-T Nitro Boosts|300|NEW|?
+202|SAF-T Teleport|300|NEW|?
+202|Stealthman 52|300|NEW|Vendor
+202|Ultra-Flash Shadow Reflector|300|Old|Drop
+202|Ultralight Goblin Glider|300|NEW|Vendor
+202|Ultrasafe Rechargeable Battery|300|NEW|Vendor
+202|Arcane Megabomb|315|Old|?
+202|G00 DV-1B3 Generator|315|Old|?
+202|Obsidian Blasting Powder|315|Old|?
+202|Obsidian Bomb|315|Old|?
+202|The Fumigator|315|Old|?
+202|Tuned Force Reactive Disk|315|Old|?
+202|Fiery Core Sharpshooter Rifle|320|Old|?
+202|Obsidian Scope|320|Old|?
+202|Obsidian Shotgun|320|Old|?
+202|Tranquil Mechanical Yeti|320|Old|?
+333|Runed Copper Rod|1|Old|Trainer
+333|Dust to Motes|1|NEW|Trainer
+333|Novice's Practice Wand|1|NEW|Trainer
+333|Lesser Magic Wand|10|Old|Trainer
+333|Enchant Chest - Inferior Stamina|15|Old|Trainer
+333|Enchant Bracer - Inferior Stamina|20|Old|?
+333|Enchanted Lute|20|NEW|Quest
+333|Enchant Chest - Minor Intellect|20|Old|Drop
+333|Enchant Chest - Minor Absorption|40|Old|Trainer
+333|Minor Wizard Oil|45|Old|Vendor
+333|Enchant Cloak - Minor Resistance|45|Old|Trainer
+333|Enchant Bracer - Minor Stamina|50|Old|Trainer
+333|Enchant Bracer - Minor Spirit|60|Old|Drop
+333|Enchant Chest - Lesser Stamina|60|Old|Trainer
+333|Enchant Bracer - Minor Intellect|70|NEW|Drop
+333|Enchant Cloak - Minor Protection|70|Old|Trainer
+333|Greater Magic Wand|70|Old|Trainer
+333|Enchant Bracer - Minor Deflect|80|Old|?
+333|Enchant Bracer - Minor Agility|80|Old|Trainer
+333|Enchant Bracer - Minor Strength|80|Old|Drop
+333|Enchant Chest - Lesser Intellect|80|Old|Drop
+333|Enchant Bracer - Minor Healing Power|90|NEW|Drop
+333|Enchant Weapon - Minor Beastslayer|90|Old|Drop
+333|Enchant Weapon - Minor Striking|90|Old|Trainer
+333|Blackfathom Mana Oil|100|Old|?
+333|Enchant 2H Weapon - Lesser Intellect|100|Old|Vendor
+333|Enchant 2H Weapon - Minor Impact|100|Old|Trainer
+333|Runed Silver Rod|100|Old|Trainer
+333|Enchant Shield - Minor Stamina|105|Old|Trainer
+333|Enchant 2H Weapon - Lesser Spirit|110|Old|Drop
+333|Enchant Cloak - Minor Agility|110|Old|Drop
+333|Enchant Cloak - Lesser Protection|115|Old|Trainer
+333|Enchant Shield - Lesser Protection|115|Old|Drop
+333|Scroll of Spatial Mending|120|Old|Drop
+333|Enchant Bracer - Lesser Spirit|120|Old|Drop
+333|Enchant Chest - Stamina|120|Old|Trainer
+333|Enchant Boots - Minor Agility|125|Old|Vendor
+333|Enchant Boots - Minor Stamina|125|Old|Trainer
+333|Enchant Cloak - Lesser Fire Resistance|125|Old|Trainer
+333|Magic Mushroom|130|NEW|Vendor
+333|Polished Driftwood Icon|130|NEW|Vendor
+333|Tenets of the Silver Hand|130|NEW|Vendor
+333|Enchant Bracer - Lesser Stamina|130|Old|Trainer
+333|Enchant Shield - Lesser Spirit|130|Old|Trainer
+333|Enchant Cloak - Lesser Shadow Resistance|135|Old|Drop
+333|Arcane Salvager|140|NEW|Drop
+333|Enchant Weapon - Insight|140|NEW|Vendor
+333|Enchant Weapon - Recovery|140|NEW|Vendor
+333|Enchant Weapon - Revelation|140|NEW|Vendor
+333|Glimmering Staff|140|NEW|Vendor
+333|Orb of Mystic Insight|140|NEW|Vendor
+333|Orb of Souls|140|NEW|Vendor
+333|Soulstaff|140|NEW|Vendor
+333|Enchant Bracer - Lesser Agility|140|NEW|Quest
+333|Enchant Bracer - Lesser Strength|140|Old|Vendor
+333|Enchant Chest - Lesser Absorption|140|Old|Trainer
+333|Enchant Weapon - Lesser Striking|140|Old|Trainer
+333|Enchant 2H Weapon - Lesser Impact|145|Old|Trainer
+333|Enchant Chest - Intellect|145|Old|Trainer
+333|Enchant Gloves - Fishing|145|Old|Drop
+333|Enchant Gloves - Herbalism|145|Old|Drop
+333|Enchant Gloves - Mining|145|Old|Drop
+333|Minor Mana Oil|150|Old|Vendor
+333|Enchant Bracer - Lesser Intellect|150|Old|Trainer
+333|Enchant Chest - Minor Stats|150|Old|Trainer
+333|Runed Golden Rod|150|Old|Trainer
+333|Enchant Cloak - Defense|155|Old|Trainer
+333|Enchant Shield - Lesser Stamina|155|Old|Trainer
+333|Lesser Mystic Wand|155|Old|Trainer
+333|Enchant Boots - Lesser Agility|160|Old|Trainer
+333|Enchant Chest - Greater Stamina|160|Old|Trainer
+333|Enchant Bracer - Spirit|165|Old|Trainer
+333|Enchant Boots - Lesser Stamina|170|Old|Trainer
+333|Enchant Bracer - Lesser Deflection|170|Old|Vendor
+333|Enchant Bracer - Stamina|170|Old|Trainer
+333|Enchant Cloak - Fire Resistance|175|Old|Trainer
+333|Enchant Weapon - Lesser Beastslayer|175|Old|Drop
+333|Enchant Weapon - Lesser Elemental Slayer|175|Old|Drop
+333|Greater Mystic Wand|175|Old|Trainer
+333|Enchant Bracer - Strength|180|Old|Trainer
+333|Enchant Shield - Spirit|180|Old|Trainer
+333|Enchant Chest - Greater Intellect|185|Old|Trainer
+333|Twisted Nether Wand|185|NEW|?
+333|Enchant Boots - Lesser Spirit|190|Old|Drop
+333|Enchant Weapon - Winter's Might|190|Old|Drop
+333|Enchant Bracer - Agility|190|NEW|?
+333|Enchant Shield - Lesser Block|195|Old|Drop
+333|Enchant Weapon - Striking|195|Old|Trainer
+333|Lesser Wizard Oil|200|Old|Vendor
+333|Enchant 2H Weapon - Impact|200|Old|Trainer
+333|Enchant Chest - Lesser Stats|200|Old|Trainer
+333|Enchant Gloves - Skinning|200|Old|Drop
+333|Runed Truesilver Rod|200|Old|Trainer
+333|Enchant Bracer - Lesser Healing Power|205|NEW|Quest
+333|Enchant Cloak - Greater Defense|205|Old|Trainer
+333|Enchant Cloak - Resistance|205|Old|Trainer
+333|Enchant Necklace - Agility|210|NEW|Vendor
+333|Enchant Necklace - Deflection|210|NEW|Vendor
+333|Enchant Necklace - Healing Power|210|NEW|Vendor
+333|Enchant Necklace - Spell Power|210|NEW|Vendor
+333|Enchant Necklace - Strength|210|NEW|Vendor
+333|Talons of Wrath|210|NEW|Vendor
+333|Totem of Ancestral Protection|210|NEW|Vendor
+333|Enchant 2H Weapon - Lesser Agility|210|NEW|?
+333|Enchant Bracer - Intellect|210|Old|Trainer
+333|Enchant Gloves - Agility|210|Old|Trainer
+333|Enchant Shield - Stamina|210|Old|Drop
+333|Dreambough Wand|215|NEW|?
+333|Enchant Boots - Stamina|215|Old|Trainer
+333|Enchant Gloves - Advanced Mining|215|Old|Drop
+333|Dreamstaff|220|NEW|Vendor
+333|Enchant Chest - Absorption|220|NEW|Vendor
+333|Radiant Staff|220|NEW|Vendor
+333|Truesilver Conduit|220|NEW|Vendor
+333|Twisting Essence Jar|220|NEW|Vendor
+333|Enchant 2H Weapon - Lesser Strength|220|NEW|?
+333|Enchant Bracer - Greater Spirit|220|Old|Drop
+333|Enchant Chest - Superior Stamina|220|Old|Trainer
+333|Enchant Weapon - Dismantle|225|Old|Vendor
+333|Enchant Chest - Retricutioner|225|Old|Vendor
+333|Sigil of Innovation|225|Old|Vendor
+333|Enchant Boots - Minor Speed|225|Old|Trainer
+333|Enchant Gloves - Advanced Herbalism|225|Old|Drop
+333|Enchant Gloves - Strength|225|Old|Trainer
+333|Enchant Chest - Superior Intellect|230|Old|Trainer
+333|Enchant Shield - Greater Spirit|230|Old|Trainer
+333|Enchant Weapon - Demonslaying|230|Old|Drop
+333|Enchant Boots - Agility|235|Old|Trainer
+333|Enchant Bracer - Deflection|235|Old|Vendor
+333|Enchant Shield - Frost Resistance|235|Old|Drop
+333|Enchant 2H Weapon - Greater Impact|240|Old|Trainer
+333|Enchant Bracer - Greater Agility|240|NEW|?
+333|Enchant Bracer - Greater Strength|240|Old|Trainer
+333|Enchant Bracer - Greater Stamina|245|Old|Drop
+333|Enchant Chest - Stats|245|Old|Trainer
+333|Enchant Weapon - Greater Striking|245|Old|Trainer
+333|Lesser Eternal Wand|245|NEW|?
+333|Sigil of Living Dreams|250|Old|?
+333|Enchanted Leather|250|Old|Trainer
+333|Enchanted Thorium|250|Old|Trainer
+333|Lesser Mana Oil|250|Old|Vendor
+333|Enchant Gloves - Advanced Skinning|250|NEW|?
+333|Enchant Gloves - Minor Haste|250|Old|Trainer
+333|Enchant Gloves - Riding Skill|250|Old|Drop
+333|Enchant Bracer - Greater Intellect|255|Old|Drop
+333|Enchant Boots - Greater Stamina|260|Old|Drop
+333|Enchant Cloak - Greater Resistance|265|Old|Drop
+333|Enchant Shield - Greater Stamina|265|Old|Vendor
+333|Enchant Weapon - Fiery Weapon|265|Old|Drop
+333|Smoking Heart of the Mountain|265|Old|Drop
+333|Enchant Bracer - Superior Spirit|270|Old|Drop
+333|Enchant Gloves - Greater Agility|270|Old|Drop
+333|Conductive Shield Coating|275|Old|Vendor
+333|Greater Eternal Wand|275|NEW|?
+333|Wizard Oil|275|Old|Vendor
+333|Enchant Boots - Spirit|275|Old|Drop
+333|Enchant Chest - Major Stamina|275|Old|Vendor
+333|Brilliant Wand|275|NEW|Vendor
+333|Enchant Shield - Superior Spirit|280|Old|Drop
+333|Enchant 2H Weapon - Grand Arcanist|280|NEW|?
+333|Enchant 2H Weapon - Grand Inquisitor|280|NEW|?
+333|Enchant 2H Weapon - Grand Crusader|280|NEW|?
+333|Enchant 2H Weapon - Grand Sorcerer|280|NEW|?
+333|Dormant Heart of the Mountain|285|NEW|?
+333|Frozen Heart of the Mountain|285|NEW|?
+333|Molten Heart of the Mountain|285|NEW|?
+333|Enchant Cloak - Superior Defense|285|Old|Vendor
+333|Enchant Weapon - Icy Chill|285|Old|Drop
+333|Enchant 2H Weapon - Strength|290|NEW|?
+333|Sigil of Flowing Waters|290|NEW|Vendor
+333|Enchant 2H Weapon - Agility|290|Old|Vendor
+333|Enchant Bracer - Mana Regeneration|290|Old|Vendor
+333|Enchant Chest - Major Intellect|290|Old|Drop
+333|Enchant Weapon - Agility|290|Old|Vendor
+333|Enchant Weapon - Strength|290|Old|Vendor
+333|Runed Arcanite Rod|290|Old|Vendor
+333|Enchant Gloves - Lotus Claw|290|NEW|Vendor
+333|Enchant 2H Weapon - Superior Impact|295|Old|Drop
+333|Enchant Boots - Greater Agility|295|Old|Drop
+333|Enchant Bracer - Superior Agility|295|NEW|?
+333|Enchant Bracer - Superior Strength|295|Old|Drop
+333|Enchant Gloves- Greater Strength|295|Old|Drop
+333|Enchant Weapon - Unholy Weapon|295|Old|Drop
+333|Arcane Forge (Camping)|300|NEW|?
+333|Idol of Swiftness|300|NEW|?
+333|Idol of the Ursine Twins|300|NEW|?
+333|Libram of Infusion|300|NEW|?
+333|Steadfast Libram|300|NEW|?
+333|Torch of Light|300|NEW|?
+333|Totem of Urgency|300|NEW|?
+333|Brilliant Mana Oil|300|Old|Vendor
+333|Brilliant Wizard Oil|300|Old|Vendor
+333|Magnificant Trollshine|300|NEW|Vendor
+333|Enchant 2H Weapon - Major Intellect|300|Old|Drop
+333|Enchant 2H Weapon - Major Spirit|300|Old|Drop
+333|Enchant 2H Weapon - Mighty Healing Power|300|NEW|Vendor
+333|Enchant 2H Weapon - Might Spell Power|300|NEW|Vendor
+333|Enchant 2H Weapon - Spellblasting|300|NEW|Vendor
+333|Enchant Bracer - Greater Spellpower|300|NEW|Vendor
+333|Enchant Bracer - Healing Power|300|Old|Vendor
+333|Enchant Bracer - Superior Deflection|300|NEW|Vendor
+333|Enchant Bracer - Superior Intellect|300|NEW|Vendor
+333|Enchant Bracer - Superior Stamina|300|Old|Drop
+333|Enchant Chest - Greater Stats|300|Old|Drop
+333|Enchant Cloak - Agility|300|NEW|Vendor
+333|Enchant Cloak - Dodge|300|NEW|Drop
+333|Enchant Cloak - Greater Fire Resistance|300|Old|Vendor
+333|Enchant Cloak - Greater Nature Resistance|300|Old|Vendor
+333|Enchant Cloak - Stealth|300|Old|Old
+333|Enchant Cloak - Subtlety|300|Old|Drop
+333|Enchant Gloves - Arcane Power|300|NEW|Vendor
+333|Enchant Gloves - Fire Power|300|Old|Drop
+333|Enchant Gloves - Frost Power|300|Old|Drop
+333|Enchant Gloves - Healing Power|300|Old|Old
+333|Enchant Gloves - Holy Power|300|NEW|Vendor
+333|Enchant Gloves - Natural Power|300|NEW|Vendor
+333|Enchant Gloves - Shadow Power|300|Old|Drop
+333|Enchant Gloves - Superior Agility|300|Old|Drop
+333|Enchant Gloves - Superior Strength|300|NEW|Vendor
+333|Enchant Gloves - Threat|300|Old|Drop
+333|Enchant Off-Hand - Excellent Spirit|300|NEW|?
+333|Enchant Off-Hand - Superior Intellect|300|NEW|?
+333|Enchant Off-Hand - Wisdom|300|NEW|Vendor
+333|Enchant Shield - Critical Strike|300|NEW|?
+333|Enchant Shield - Excellent Stamina|300|NEW|?
+333|Enchant Shield - Law of Nature|300|NEW|Vendor
+333|Enchant Weapon - Crusader|300|Old|Drop
+333|Enchant Weapon - Healing Power|300|Old|Old
+333|Enchant Weapon - Lifestealing|300|Old|Drop
+333|Enchant Weapon - Mighty Intellect|300|Old|Vendor
+333|Enchant Weapon - Mighty Spirit|300|Old|?
+333|Enchant Weapon - Spell Power|300|Old|Drop
+333|Enchant Weapon - Superior Striking|300|Old|Drop
+333|Enchanted Repellent|300|NEW|Vendor
+333|Idol of the Dream|300|NEW|Vendor
+333|Libram of Holy Alacrity|300|NEW|Vendor
+333|Scroll: Wrath of the Swarm|300|NEW|Drop
+333|Totem of Thunder|300|NEW|Vendor
+333|Enchant Bracer - Agility|320|NEW|?
+333|Enchant Bracer - Spell Power|320|NEW|?
+333|Enchant Chest - Living Stats|320|NEW|?
+333|Enchanted Mushroom|320|NEW|?
+333|Enchanted Prayer Tome|320|NEW|?
+333|Enchanted Stopwatch|320|NEW|?
+333|Enchanted Totem|320|NEW|?
+333|Idol of Feline Ferocity|320|NEW|?
+333|Idol of Sidereal Wrath|320|NEW|?
+333|Idol of Ursin Power|320|NEW|?
+333|Libram of Righteousness|320|NEW|?
+333|Libram of Sanctity|320|NEW|?
+333|Libram of the Exorcist|320|NEW|?
+333|Lodestone of Retaliation|320|NEW|?
+333|Ruby-Encrusted Broach|320|NEW|?
+333|Speedstone|320|NEW|?
+333|Tear of the Dreamer|320|NEW|?
+333|Totem of Flowing Magma|320|NEW|?
+333|Totem of Pyroclastic Thunder|320|NEW|?
+333|Totem of Thunderous Strikes|320|NEW|?
