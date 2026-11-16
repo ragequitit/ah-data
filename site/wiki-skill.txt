@@ -1,0 +1,538 @@
+# Skillkrav för Forever-recept ur Warcraft Wiki (warcraft.wiki.gg, CC BY-SA 4.0), hämtat 2026-11-17:
+# Forever_alchemy_recipes (oldid 6978248), Forever_first_aid_recipes, Forever_cooking_recipes.
+# Format: yrke|recept|skill. Läses av recept-merge.js för recept som varken Classic-databasen eller AtlasLoot har.
+alchemy|Minor Arcane Elixir|1
+alchemy|Elixir of Minor Force|1
+alchemy|Elixir of Minor Defense|1
+alchemy|Elixir of Minor Spirit|15
+alchemy|Elixir of Minor Strength|15
+alchemy|Minor Troll's Blood Elixir|15
+alchemy|Mana Well|20
+alchemy|Minor Mageblood Elixir|25
+alchemy|Minor Mana Potion|25
+alchemy|Minor Mender's Potion|30
+alchemy|Minor Spellblasting Potion|35
+alchemy|Minor Frenzy Potion|40
+alchemy|Cerulean Dye|40
+alchemy|Sulfuric Acid|40
+alchemy|Minor Rejuvenation Potion|40
+alchemy|Minor Cleric's Elixir|45
+alchemy|Minor Discolored Healing Potion|50
+alchemy|Elixir of Minor Fortitude|50
+alchemy|Elixir of Minor Agility|50
+alchemy|Swiftness Potion|60
+alchemy|Rage Potion|60
+alchemy|Elixir of Lesser Spirit|65
+alchemy|Lesser Mageblood Elixir|75
+alchemy|Blackmouth Oil|80
+alchemy|Lesser Mender's Potion|80
+alchemy|Lesser Discolored Healing Potion|85
+alchemy|Lesser Spellblasting Potion|85
+alchemy|Elixir of Coalesced Regret|90
+alchemy|Lesser Frenzy Potion|90
+alchemy|Elixir of Wisdom|90
+alchemy|Elixir of Giant Growth|90
+alchemy|Draught of Water Breathing|90
+alchemy|Lesser Cleric's Elixir|95
+alchemy|Elixir of Lesser Intellect|95
+alchemy|Swim Speed Potion|100
+alchemy|Holy Protection Potion|100
+alchemy|Minor Magic Resistance Potion|110
+alchemy|Elixir of Spirit|115
+alchemy|Magenta Dye|120
+alchemy|Lesser Mana Potion|120
+alchemy|Potion of Poison Cleansing|120
+alchemy|Lesser Troll's Blood Elixir|125
+alchemy|Mender's Potion|130
+alchemy|Fire Oil|130
+alchemy|Elixir of Lesser Defense|130
+alchemy|Discolored Healing Potion|135
+alchemy|Spellblasting Potion|135
+alchemy|Elixir of Intellect|135
+alchemy|Shadow Protection Potion|135
+alchemy|Fermenter|140
+alchemy|Frenzy Potion|140
+alchemy|Elixir of Fire Power|140
+alchemy|Elixir of Lesser Agility|140
+alchemy|Cleric's Elixir|145
+alchemy|Elixir of Strength|150
+alchemy|Elixir of Fortitude|150
+alchemy|Free Action Potion|150
+alchemy|Elixir of Ogre Strength|150
+alchemy|Mana Potion|160
+alchemy|Elixir of Greater Spirit|165
+alchemy|Lesser Invisibility Potion|165
+alchemy|Shadow Oil|165
+alchemy|Fire Protection Potion|165
+alchemy|Elixir of Lesser Fortitude|165
+alchemy|Greater Discolored Healing Potion|175
+alchemy|Greater Mageblood Elixir|175
+alchemy|Great Rage Potion|175
+alchemy|Greater Mender's Potion|180
+alchemy|Troll's Blood Elixir|180
+alchemy|Greater Spellblasting Potion|185
+alchemy|Elixir of Agility|185
+alchemy|Greater Frenzy Potion|190
+alchemy|Frost Protection Potion|190
+alchemy|Nature Protection Potion|190
+alchemy|Elixir of Frost Power|190
+alchemy|Potion of Predatory Senses|195
+alchemy|Greater Cleric's Elixir|195
+alchemy|Elixir of Defense|195
+alchemy|Draught of Detect Lesser Invisibility|195
+alchemy|Insulating Gniodine|200
+alchemy|Elixir of Greater Fortitude|200
+alchemy|Frost Oil|200
+alchemy|Catseye Draught|200
+alchemy|Revealing Draught|205
+alchemy|Oil of Immolation|205
+alchemy|Greater Mana Potion|205
+alchemy|Goblin Rocket Fuel|210
+alchemy|Magic Resistance Potion|210
+alchemy|Viridian Dye|215
+alchemy|Draught of Greater Water Breathing|215
+alchemy|Lesser Stoneshield Potion|215
+alchemy|Restorative Potion|225
+alchemy|Mildly Irradiated Rejuvenation Potion|225
+alchemy|Wildvine Potion|225
+alchemy|Philosopher's Stone|225
+alchemy|Transmute: Iron to Gold|225
+alchemy|Transmute: Mithril to Truesilver|225
+alchemy|Superior Discolored Healing Potion|230
+alchemy|Superior Mender's Potion|230
+alchemy|Draught of Detect Undead|230
+alchemy|Dreamless Sleep Potion|230
+alchemy|Superior Spellblasting Potion|235
+alchemy|Arcane Elixir|235
+alchemy|Invisibility Potion|235
+alchemy|Elixir of Greater Intellect|235
+alchemy|Superior Frenzy Potion|240
+alchemy|Gift of Arthas|240
+alchemy|Draught of Dream Vision|240
+alchemy|Elixir of Greater Agility|240
+alchemy|Dragonfire Potion|245
+alchemy|Ghost Dye|245
+alchemy|Elixir of Greater Strength|245
+alchemy|Jar of Nightmarish Mojo|250
+alchemy|Flask of Restless Dreams|250
+alchemy|Flask of Everlasting Nightmares|250
+alchemy|Stonescale Oil|250
+alchemy|Elixir of the Phalanx|250
+alchemy|Distilled Firewater|250
+alchemy|Elixir of Shadow Power|250
+alchemy|Elixir of Holy Power|250
+alchemy|Potion of Demon Slaying|250
+alchemy|Draught of Detect Demon|250
+alchemy|Limited Invulnerability Potion|250
+alchemy|Major Discolored Healing Potion|250
+alchemy|Mighty Rage Potion|255
+alchemy|Superior Mana Potion|260
+alchemy|Caustic Smog Potion|265
+alchemy|Elixir of Greater Defense|265
+alchemy|Elixir of the Sages|270
+alchemy|Potion of Venomous Blood|275
+alchemy|Elixir of the Whale|275
+alchemy|Elixir of Sages|275
+alchemy|Elixir of Ferocity|275
+alchemy|Elixir of Cunning|275
+alchemy|Mageblood Elixir|275
+alchemy|Greater Dreamless Sleep Potion|275
+alchemy|Elixir of Brute Force|275
+alchemy|Elixir of the Owl|280
+alchemy|Potion of Elemental Purging|280
+alchemy|Potion of Beast Slaying|280
+alchemy|Major Mender's Potion|280
+alchemy|Elixir of the Mongoose|280
+alchemy|Greater Stoneshield Potion|280
+alchemy|Major Spellblasting Potion|285
+alchemy|Elixir of Wicked Regeneration|285
+alchemy|Elixir of Nature Power|285
+alchemy|Greater Arcane Elixir|285
+alchemy|Living Action Potion|285
+alchemy|Purification Potion|285
+alchemy|Major Frenzy Potion|290
+alchemy|Major Troll's Blood Elixir|290
+alchemy|Major Mana Potion|295
+alchemy|Elixir of the Grizzly|300
+alchemy|Major Rejuvenation Potion|300
+alchemy|Flask of Natural Accuracy|300
+alchemy|Flask of Natural Aggression|300
+alchemy|Flask of Natural Precision|300
+alchemy|Flask of Natural Swiftness|300
+alchemy|Gurubashi Mojo Madness|315
+first aid|Linen Bandage|1
+first aid|Minor Healing Potion|1
+first aid|First Aid Kit|20
+first aid|Heavy Linen Bandage|40
+first aid|Lesser Healing Potion|55
+first aid|Anti-Venom|80
+first aid|Wool Bandage|80
+first aid|Simple Poultice|90
+first aid|Healing Potion|110
+first aid|Heavy Wool Bandage|115
+first aid|Woolen Tourniquet|120
+first aid|Strong Anti-Venom|130
+first aid|Silk Bandage|150
+first aid|Clever Poultice|160
+first aid|Greater Healing Potion|175
+first aid|Heavy Silk Bandage|180
+first aid|Mageweave Bandage|210
+first aid|Leather Tourniquet|220
+first aid|Superior Poultice|225
+first aid|Superior Healing Potion|230
+first aid|Potent Anti-Venom|230
+first aid|Heavy Mageweave Bandage|240
+first aid|Runecloth Bandage|260
+first aid|Surgical Tourniquet|280
+first aid|Major Healing Potion|290
+first aid|Heavy Runecloth Bandage|290
+first aid|Powerful Poultice|295
+first aid|Powerful Anti-Venom|300
+first aid|Dense Runecloth Bandage|300
+cooking|Charred Wolf Meat|1
+cooking|Roasted Boar Meat|1
+cooking|Venomous Smoothie|25
+cooking|Skywall Souffle|25
+cooking|Peace Tea|25
+cooking|Tasty Raptor Bites|25
+cooking|Pincer Bites|35
+cooking|Breakfast Omelette|75
+cooking|Twice-Spiced Raptor Slice|75
+cooking|Critter Cookie|80
+cooking|Savory Whimsyfin Delight|85
+cooking|Slimy Smoothie|100
+cooking|Royal Tea|100
+cooking|Mrrggl Smrrthle|125
+cooking|Root Tea|125
+cooking|Giant Scrambled Eggs|175
+cooking|Bear Brisket|175
+cooking|Calcified Smoothie|180
+cooking|Triage Tea|180
+cooking|Raging Raptor Ribs|180
+cooking|Plain Ol' Paletusk|185
+cooking|Spicy Smoothie|200
+cooking|Briny Seafood Stew|200
+cooking|Sunny Tea|200
+cooking|Spinefin Halibut|210
+cooking|Savory Stag Sliders|225
+cooking|Raptor Rouladen|225
+cooking|Plated Armorfish|225
+cooking|Wicked Smoothie|250
+cooking|Sage's Tea|250
+cooking|Sweetpaw Jam|275
+cooking|Steaming Stag Steak|275
+cooking|Bear Bruscitti|275
+cooking|Bat Hachee|275
+cooking|Prehistoric Pulled Raptor|275
+cooking|Savory Turtle Stew|275
+cooking|Swiftstrike Steak|275
+cooking|Soaring Pamplona|275
+cooking|Clam Linguine|275
+cooking|Flank au Poivre|275
+cooking|Smoked Desert Dumplings|325
+# Övriga yrken (Forever_engineering_schematics, Forever_tailoring_patterns, Forever_mining_techniques,
+# Forever_blacksmithing_plans, Forever_leatherworking_patterns, Forever_enchanting_formulas), bara de recept som saknades.
+engineering|9-60 Battery Pack|125
+engineering|Sandpaper|120
+engineering|Serrated Strap|175
+engineering|Shredder Autosalvage Unit|135
+tailoring|Green Winter Clothes|250
+tailoring|Red Winter Clothes|250
+tailoring|Invoker's Cord|150
+tailoring|Invoker's Mantle|150
+tailoring|Phoenix Bindings|125
+mining|Smelt Azerothium|275
+mining|Smelt Heavy Thorium|300
+blacksmithing|Copper Rod|1
+leatherworking|Winter Boots|285
+enchanting|Dust to Motes|1
+enchanting|Novice's Practice Wand|1
+enchanting|Greater Mystic Wand|175
+
+# Förtrollningar: Forever_enchanting_formulas (alla recept, även Classic-förtrollningarna).
+# Namn som står två gånger med olika nivå (Enchant Bracer - Agility 190/320) används inte (recept-merge.js).
+enchanting|Runed Copper Rod|1
+enchanting|Lesser Magic Wand|10
+enchanting|Enchant Chest - Inferior Stamina|15
+enchanting|Enchant Bracer - Inferior Stamina|20
+enchanting|Enchanted Lute|20
+enchanting|Enchant Chest - Minor Intellect|20
+enchanting|Enchant Chest - Minor Absorption|40
+enchanting|Minor Wizard Oil|45
+enchanting|Enchant Cloak - Minor Resistance|45
+enchanting|Enchant Bracer - Minor Stamina|50
+enchanting|Enchant Bracer - Minor Spirit|60
+enchanting|Enchant Chest - Lesser Stamina|60
+enchanting|Enchant Bracer - Minor Intellect|70
+enchanting|Enchant Cloak - Minor Protection|70
+enchanting|Greater Magic Wand|70
+enchanting|Enchant Bracer - Minor Deflect|80
+enchanting|Enchant Bracer - Minor Agility|80
+enchanting|Enchant Bracer - Minor Strength|80
+enchanting|Enchant Chest - Lesser Intellect|80
+enchanting|Enchant Bracer - Minor Healing Power|90
+enchanting|Enchant Weapon - Minor Beastslayer|90
+enchanting|Enchant Weapon - Minor Striking|90
+enchanting|Blackfathom Mana Oil|100
+enchanting|Enchant 2H Weapon - Lesser Intellect|100
+enchanting|Enchant 2H Weapon - Minor Impact|100
+enchanting|Runed Silver Rod|100
+enchanting|Enchant Shield - Minor Stamina|105
+enchanting|Enchant 2H Weapon - Lesser Spirit|110
+enchanting|Enchant Cloak - Minor Agility|110
+enchanting|Enchant Cloak - Lesser Protection|115
+enchanting|Enchant Shield - Lesser Protection|115
+enchanting|Scroll of Spatial Mending|120
+enchanting|Enchant Bracer - Lesser Spirit|120
+enchanting|Enchant Chest - Stamina|120
+enchanting|Enchant Boots - Minor Agility|125
+enchanting|Enchant Boots - Minor Stamina|125
+enchanting|Enchant Cloak - Lesser Fire Resistance|125
+enchanting|Magic Mushroom|130
+enchanting|Polished Driftwood Icon|130
+enchanting|Tenets of the Silver Hand|130
+enchanting|Enchant Bracer - Lesser Stamina|130
+enchanting|Enchant Shield - Lesser Spirit|130
+enchanting|Enchant Cloak - Lesser Shadow Resistance|135
+enchanting|Arcane Salvager|140
+enchanting|Enchant Weapon - Insight|140
+enchanting|Enchant Weapon - Recovery|140
+enchanting|Enchant Weapon - Revelation|140
+enchanting|Glimmering Staff|140
+enchanting|Orb of Mystic Insight|140
+enchanting|Orb of Souls|140
+enchanting|Soulstaff|140
+enchanting|Enchant Bracer - Lesser Agility|140
+enchanting|Enchant Bracer - Lesser Strength|140
+enchanting|Enchant Chest - Lesser Absorption|140
+enchanting|Enchant Weapon - Lesser Striking|140
+enchanting|Enchant 2H Weapon - Lesser Impact|145
+enchanting|Enchant Chest - Intellect|145
+enchanting|Enchant Gloves - Fishing|145
+enchanting|Enchant Gloves - Herbalism|145
+enchanting|Enchant Gloves - Mining|145
+enchanting|Minor Mana Oil|150
+enchanting|Enchant Bracer - Lesser Intellect|150
+enchanting|Enchant Chest - Minor Stats|150
+enchanting|Runed Golden Rod|150
+enchanting|Enchant Cloak - Defense|155
+enchanting|Enchant Shield - Lesser Stamina|155
+enchanting|Lesser Mystic Wand|155
+enchanting|Enchant Boots - Lesser Agility|160
+enchanting|Enchant Chest - Greater Stamina|160
+enchanting|Enchant Bracer - Spirit|165
+enchanting|Enchant Boots - Lesser Stamina|170
+enchanting|Enchant Bracer - Lesser Deflection|170
+enchanting|Enchant Bracer - Stamina|170
+enchanting|Enchant Cloak - Fire Resistance|175
+enchanting|Enchant Weapon - Lesser Beastslayer|175
+enchanting|Enchant Weapon - Lesser Elemental Slayer|175
+enchanting|Enchant Bracer - Strength|180
+enchanting|Enchant Shield - Spirit|180
+enchanting|Enchant Chest - Greater Intellect|185
+enchanting|Twisted Nether Wand|185
+enchanting|Enchant Boots - Lesser Spirit|190
+enchanting|Enchant Weapon - Winter's Might|190
+enchanting|Enchant Bracer - Agility|190
+enchanting|Enchant Shield - Lesser Block|195
+enchanting|Enchant Weapon - Striking|195
+enchanting|Lesser Wizard Oil|200
+enchanting|Enchant 2H Weapon - Impact|200
+enchanting|Enchant Chest - Lesser Stats|200
+enchanting|Enchant Gloves - Skinning|200
+enchanting|Runed Truesilver Rod|200
+enchanting|Enchant Bracer - Lesser Healing Power|205
+enchanting|Enchant Cloak - Greater Defense|205
+enchanting|Enchant Cloak - Resistance|205
+enchanting|Enchant Necklace - Agility|210
+enchanting|Enchant Necklace - Deflection|210
+enchanting|Enchant Necklace - Healing Power|210
+enchanting|Enchant Necklace - Spell Power|210
+enchanting|Enchant Necklace - Strength|210
+enchanting|Talons of Wrath|210
+enchanting|Totem of Ancestral Protection|210
+enchanting|Enchant 2H Weapon - Lesser Agility|210
+enchanting|Enchant Bracer - Intellect|210
+enchanting|Enchant Gloves - Agility|210
+enchanting|Enchant Shield - Stamina|210
+enchanting|Dreambough Wand|215
+enchanting|Enchant Boots - Stamina|215
+enchanting|Enchant Gloves - Advanced Mining|215
+enchanting|Dreamstaff|220
+enchanting|Enchant Chest - Absorption|220
+enchanting|Radiant Staff|220
+enchanting|Truesilver Conduit|220
+enchanting|Twisting Essence Jar|220
+enchanting|Enchant 2H Weapon - Lesser Strength|220
+enchanting|Enchant Bracer - Greater Spirit|220
+enchanting|Enchant Chest - Superior Stamina|220
+enchanting|Enchant Weapon - Dismantle|225
+enchanting|Enchant Chest - Retricutioner|225
+enchanting|Sigil of Innovation|225
+enchanting|Enchant Boots - Minor Speed|225
+enchanting|Enchant Gloves - Advanced Herbalism|225
+enchanting|Enchant Gloves - Strength|225
+enchanting|Enchant Chest - Superior Intellect|230
+enchanting|Enchant Shield - Greater Spirit|230
+enchanting|Enchant Weapon - Demonslaying|230
+enchanting|Enchant Boots - Agility|235
+enchanting|Enchant Bracer - Deflection|235
+enchanting|Enchant Shield - Frost Resistance|235
+enchanting|Enchant 2H Weapon - Greater Impact|240
+enchanting|Enchant Bracer - Greater Agility|240
+enchanting|Enchant Bracer - Greater Strength|240
+enchanting|Enchant Bracer - Greater Stamina|245
+enchanting|Enchant Chest - Stats|245
+enchanting|Enchant Weapon - Greater Striking|245
+enchanting|Lesser Eternal Wand|245
+enchanting|Sigil of Living Dreams|250
+enchanting|Enchanted Leather|250
+enchanting|Enchanted Thorium|250
+enchanting|Lesser Mana Oil|250
+enchanting|Enchant Gloves - Advanced Skinning|250
+enchanting|Enchant Gloves - Minor Haste|250
+enchanting|Enchant Gloves - Riding Skill|250
+enchanting|Enchant Bracer - Greater Intellect|255
+enchanting|Enchant Boots - Greater Stamina|260
+enchanting|Enchant Cloak - Greater Resistance|265
+enchanting|Enchant Shield - Greater Stamina|265
+enchanting|Enchant Weapon - Fiery Weapon|265
+enchanting|Smoking Heart of the Mountain|265
+enchanting|Enchant Bracer - Superior Spirit|270
+enchanting|Enchant Gloves - Greater Agility|270
+enchanting|Conductive Shield Coating|275
+enchanting|Greater Eternal Wand|275
+enchanting|Wizard Oil|275
+enchanting|Enchant Boots - Spirit|275
+enchanting|Enchant Chest - Major Stamina|275
+enchanting|Brilliant Wand|275
+enchanting|Enchant Shield - Superior Spirit|280
+enchanting|Enchant 2H Weapon - Grand Arcanist|280
+enchanting|Enchant 2H Weapon - Grand Inquisitor|280
+enchanting|Enchant 2H Weapon - Grand Crusader|280
+enchanting|Enchant 2H Weapon - Grand Sorcerer|280
+enchanting|Dormant Heart of the Mountain|285
+enchanting|Frozen Heart of the Mountain|285
+enchanting|Molten Heart of the Mountain|285
+enchanting|Enchant Cloak - Superior Defense|285
+enchanting|Enchant Weapon - Icy Chill|285
+enchanting|Enchant 2H Weapon - Strength|290
+enchanting|Sigil of Flowing Waters|290
+enchanting|Enchant 2H Weapon - Agility|290
+enchanting|Enchant Bracer - Mana Regeneration|290
+enchanting|Enchant Chest - Major Intellect|290
+enchanting|Enchant Weapon - Agility|290
+enchanting|Enchant Weapon - Strength|290
+enchanting|Runed Arcanite Rod|290
+enchanting|Enchant Gloves - Lotus Claw|290
+enchanting|Enchant 2H Weapon - Superior Impact|295
+enchanting|Enchant Boots - Greater Agility|295
+enchanting|Enchant Bracer - Superior Agility|295
+enchanting|Enchant Bracer - Superior Strength|295
+enchanting|Enchant Gloves - Greater Strength|295
+enchanting|Enchant Weapon - Unholy Weapon|295
+enchanting|Arcane Forge|300
+enchanting|Idol of Swiftness|300
+enchanting|Idol of the Ursine Twins|300
+enchanting|Libram of Infusion|300
+enchanting|Steadfast Libram|300
+enchanting|Torch of Light|300
+enchanting|Totem of Urgency|300
+enchanting|Brilliant Mana Oil|300
+enchanting|Brilliant Wizard Oil|300
+enchanting|Enchant 2H Weapon - Major Intellect|300
+enchanting|Enchant 2H Weapon - Major Spirit|300
+enchanting|Enchant 2H Weapon - Mighty Healing Power|300
+enchanting|Enchant 2H Weapon - Spellblasting|300
+enchanting|Enchant Bracer - Greater Spellpower|300
+enchanting|Enchant Bracer - Healing Power|300
+enchanting|Enchant Bracer - Superior Deflection|300
+enchanting|Enchant Bracer - Superior Intellect|300
+enchanting|Enchant Bracer - Superior Stamina|300
+enchanting|Enchant Chest - Greater Stats|300
+enchanting|Enchant Cloak - Agility|300
+enchanting|Enchant Cloak - Dodge|300
+enchanting|Enchant Cloak - Greater Fire Resistance|300
+enchanting|Enchant Cloak - Greater Nature Resistance|300
+enchanting|Enchant Cloak - Stealth|300
+enchanting|Enchant Cloak - Subtlety|300
+enchanting|Enchant Gloves - Arcane Power|300
+enchanting|Enchant Gloves - Fire Power|300
+enchanting|Enchant Gloves - Frost Power|300
+enchanting|Enchant Gloves - Healing Power|300
+enchanting|Enchant Gloves - Holy Power|300
+enchanting|Enchant Gloves - Natural Power|300
+enchanting|Enchant Gloves - Shadow Power|300
+enchanting|Enchant Gloves - Superior Agility|300
+enchanting|Enchant Gloves - Superior Strength|300
+enchanting|Enchant Gloves - Threat|300
+enchanting|Enchant Off-Hand - Excellent Spirit|300
+enchanting|Enchant Off-Hand - Superior Intellect|300
+enchanting|Enchant Off-Hand - Wisdom|300
+enchanting|Enchant Shield - Critical Strike|300
+enchanting|Enchant Shield - Excellent Stamina|300
+enchanting|Enchant Shield - Law of Nature|300
+enchanting|Enchant Weapon - Crusader|300
+enchanting|Enchant Weapon - Healing Power|300
+enchanting|Enchant Weapon - Lifestealing|300
+enchanting|Enchant Weapon - Mighty Intellect|300
+enchanting|Enchant Weapon - Mighty Spirit|300
+enchanting|Enchant Weapon - Spell Power|300
+enchanting|Enchant Weapon - Superior Striking|300
+enchanting|Enchanted Repellent|300
+enchanting|Idol of the Dream|300
+enchanting|Libram of Holy Alacrity|300
+enchanting|Scroll: Wrath of the Swarm|300
+enchanting|Totem of Thunder|300
+enchanting|Enchant Bracer - Agility|320
+enchanting|Enchant Bracer - Spell Power|320
+enchanting|Enchant Chest - Living Stats|320
+enchanting|Enchanted Mushroom|320
+enchanting|Enchanted Prayer Tome|320
+enchanting|Enchanted Stopwatch|320
+enchanting|Enchanted Totem|320
+enchanting|Idol of Feline Ferocity|320
+enchanting|Idol of Sidereal Wrath|320
+enchanting|Idol of Ursin Power|320
+enchanting|Libram of Righteousness|320
+enchanting|Libram of Sanctity|320
+enchanting|Libram of the Exorcist|320
+enchanting|Lodestone of Retaliation|320
+enchanting|Ruby-Encrusted Broach|320
+enchanting|Speedstone|320
+enchanting|Tear of the Dreamer|320
+enchanting|Totem of Flowing Magma|320
+enchanting|Totem of Pyroclastic Thunder|320
+enchanting|Totem of Thunderous Strikes|320
+# Lägerföremål och recept som Blizzard märker "Season of Discovery" men som wikin listar för Forever.
+alchemy|Fermenter|140
+alchemy|Alchemy Laboratory|300
+alchemy|Lesser Arcane Elixir|120
+alchemy|Lesser Arcane Elixir|190
+first aid|First Aid Kit|20
+first aid|Toxin Study|140
+first aid|Plague Doctor's Laboratory|300
+cooking|Basic Campfire|1
+cooking|Journeyman Campfire|90
+cooking|Expert Campfire|200
+cooking|Cookie's Feast|140
+cooking|Iron Oven|300
+cooking|Darkclaw Bisque|300
+cooking|Smoked Redgill|300
+cooking|Prowler Steak|250
+cooking|Filet o' Flank|250
+cooking|Sunrise Omelette|250
+cooking|Grand Lobster Banquet|280
+cooking|Specklefin Feast|280
+engineering|Tinker: Teleport|280
+engineering|Tinker: Nitro Boosts|280
+engineering|Tinker: Magnetic Displacement|280
+alchemy|Elixir of Alacrity|315
+alchemy|Elixir of the Honey Badger|315
+alchemy|Elixir of the Ironside|315
+alchemy|Elixir of the Mage-Lord|315
+alchemy|Flask of Unyielding Sorrow|315
+alchemy|Flask of Madness|315
+tailoring|Faction Banner|20
+tailoring|Spinning Wheel|140
+tailoring|Loom|300

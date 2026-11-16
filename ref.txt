@@ -1,0 +1,94 @@
+8167|Turtle Scale|44s 99c|99
+5784|Slimy Murloc Scale|2s 27c|1388
+2934|Ruined Leather Scraps|10c|50517
+4234|Heavy Leather|3s 33c|11506
+4232|Medium Hide|4s 77c|4687
+7286|Black Whelp Scale|49s 99c|390
+2318|Light Leather|32c|85796
+2319|Medium Leather|1s 19c|37904
+783|Light Hide|1s 14c|9494
+6470|Deviate Scale|25c|7002
+249427|Pristine Leather|2s 90c|6899
+4231|Cured Light Hide|2s 13c|4661
+4289|Salt|62c|3973
+249428|Pristine Hide|3s 40c|3496
+4233|Cured Medium Hide|6s 28c|3184
+4304|Thick Leather|4s 55c|3168
+6471|Perfect Deviate Scale|13s 76c|2699
+4235|Heavy Hide|12s 42c|2115
+5082|Thin Kodo Leather|93c|1929
+5116|Long Tail Feather|3s 3c|1219
+4236|Cured Heavy Hide|14s|995
+8170|Rugged Leather|6s 45c|472
+5785|Thick Murloc Scale|5s|346
+4461|Raptor Hide|2s 8c|216
+4305|Bolt of Silk Cloth|11s 76c|2644
+2320|Coarse Thread|15c|15372
+2589|Linen Cloth|24c|95159
+2592|Wool Cloth|1s 31c|43157
+4306|Silk Cloth|2s 41c|36190
+2996|Bolt of Linen Cloth|57c|21160
+2321|Fine Thread|1s 15c|4639
+2997|Bolt of Woolen Cloth|4s 44c|4258
+4338|Mageweave Cloth|7s 90c|4011
+3182|Spider's Silk|11s 2c|2085
+4339|Bolt of Mageweave|37s 70c|1157
+14047|Runecloth|10s|539
+4337|Thick Spider's Silk|7s 50c|475
+4291|Silken Thread|5s 93c|399
+8831|Purple Lotus|55s 96c|39
+8839|Blindweed|33s 99c|73
+249424|Rosecap|29s 39c|133
+3821|Goldthorn|14s 33c|348
+3358|Khadgar's Whisker|6s 49c|555
+3819|Wintersbite|25s|256
+765|Silverleaf|17c|47185
+2453|Bruiseweed|1s 25c|8606
+3355|Wild Steelbloom|1s 50c|4005
+2447|Peacebloom|28c|39974
+2449|Earthroot|50c|17395
+2452|Swiftthistle|4s 15c|14895
+2450|Briarthorn|1s 4c|14849
+785|Mageroyal|48c|13710
+3820|Stranglekelp|2s 98c|8900
+3356|Kingsblood|1s 26c|8047
+249399|Frilled Lichen|12s 95c|4882
+3357|Liferoot|3s 67c|2090
+3369|Grave Moss|6s 56c|884
+3818|Fadeleaf|12s 54c|812
+2835|Rough Stone|10c|68610
+2836|Coarse Stone|72c|23638
+3478|Coarse Grinding Stone|2s 44c|5725
+249391|Pyrite|1s 88c|10456
+2840|Copper Bar|1s|53402
+2770|Copper Ore|94c|52207
+2841|Bronze Bar|1s 90c|36810
+2771|Tin Ore|1s 99c|22375
+3576|Tin Bar|2s|12537
+2838|Heavy Stone|3s 90c|10486
+2772|Iron Ore|4s 47c|7327
+3575|Iron Bar|4s 99c|6464
+2775|Silver Ore|8s 50c|5317
+2842|Silver Bar|3s 89c|4968
+7912|Solid Stone|3s 22c|4894
+3858|Mithril Ore|7s 9c|2127
+3577|Gold Bar|7s 66c|1792
+3860|Mithril Bar|8s 58c|1697
+3857|Coal|1s 35c|1591
+2776|Gold Ore|11s 65c|1179
+3859|Steel Bar|12s 7c|723
+3486|Heavy Grinding Stone|7s 90c|447
+6037|Truesilver Bar|13s 40c|222
+249425|Bauxite|19s 70c|159
+11137|Vision Dust|14s 22c|329
+10940|Strange Dust|88c|29188
+10938|Lesser Magic Essence|1s 11c|12188
+10939|Greater Magic Essence|2s 77c|5737
+11083|Soul Dust|4s 97c|4291
+10978|Small Glimmering Shard|3s 64c|1833
+10998|Lesser Astral Essence|5s 55c|1104
+11082|Greater Astral Essence|16s 76c|761
+11084|Large Glimmering Shard|13s 30c|415
+11138|Small Glowing Shard|14s 25c|286
+11135|Greater Mystic Essence|28s 94c|200
+11134|Lesser Mystic Essence|10s|180
