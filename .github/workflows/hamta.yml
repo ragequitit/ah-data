@@ -1,0 +1,106 @@
+name: Hämta och publicera
+# Två gånger i timmen: hämtar WoW Forevers AH från Blizzards API (alla marknader sedan 2026-11-18: EU, US, KR, TW ×
+# PvP/Normal/RP/RP-PvP × Alliance/Horde/Blackwater, cloud/markets.js; repot är publikt så minuterna räcker), bygger sidan med Joakims egna scans
+# och speldata (grenen egna) och publicerar till ragequitit/ah (GitHub Pages) med en deploy-nyckel. Allt skrivs tillbaka
+# med en enda commit som skrivs om varje gång, så inget repo växer. Blizzard uppdaterar ungefär 18 minuter över, därför
+# :24 och :44 (GitHub kan vara några minuter sen). Har ingen ny snapshot kommit på 3 timmar misslyckas körningen med
+# flit (AH_ALERT_HOURS), så GitHub mejlar.
+on:
+  schedule:
+    - cron: "24,44 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: hamta
+  cancel-in-progress: false
+jobs:
+  hamta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      TZ: Europe/Stockholm
+      AH_API_DIR: ${{ github.workspace }}
+      AH_SCANS_DIR: ${{ github.workspace }}/egna
+      AH_SPEL_JSON: ${{ github.workspace }}/egna/spel.json
+      AH_META_FILE: ${{ github.workspace }}/meta/blizzard-meta.json
+      AH_PUB_DIR: ${{ github.workspace }}/pub
+      AH_NO_PUBLISH: "1"
+      AH_ALERT_HOURS: "3"
+      AH_KATALOG_FILE: ${{ github.workspace }}/meta/katalog.json
+      AH_LASTX_DIR: /home/runner/lastx
+      BLIZZARD_CLIENT_ID: ${{ secrets.BLIZZARD_CLIENT_ID }}
+      BLIZZARD_CLIENT_SECRET: ${{ secrets.BLIZZARD_CLIENT_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/checkout@v4
+        with:
+          ref: egna
+          path: egna
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      # Senaste snapshoten per hus för alla utom de fyra ursprungliga (gzip, ~16 MB) ligger i GitHubs cache, inte i git.
+      - name: Senaste snapshotarna (cache)
+        uses: actions/cache/restore@v4
+        with:
+          path: /home/runner/lastx
+          key: lastx-${{ github.run_id }}
+          restore-keys: lastx-
+      - name: Hämta auktionshuset
+        run: node cloud/hamta-blizzard.js
+      - name: Spara senaste snapshotarna
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: /home/runner/lastx
+          key: lastx-${{ github.run_id }}
+      # Topplistornas katalog (hamta-katalog.js i grenen egna): en gång per dygn. Åldern avgör (2026-11-21, klockan 05
+      # missades två nätter i rad): minst 12 timmar gammal och natt (01–07 svensk tid), eller minst 24 timmar gammal när
+      # som helst, eller filen saknas. Snöbollen växer från förra katalogen och spelarnamnen i spel.json.
+      - name: Topplistornas katalog
+        run: |
+          AGE=$(node -e "try { const k = require(process.env.AH_KATALOG_FILE); console.log(Math.floor((Date.now() - k.t) / 36e5)); } catch (e) { console.log(999); }")
+          H=$((10#$(date +%H)))
+          if [ "$AGE" -ge 24 ] || { [ "$AGE" -ge 12 ] && [ "$H" -ge 1 ] && [ "$H" -le 7 ]; }; then
+            echo "katalogen är $AGE h gammal: hämtar"
+            node egna/site/hamta-katalog.js || echo "katalogen misslyckades"
+          else echo "katalogen är $AGE h gammal: väntar till natten"; fi
+      - name: Hämta sidrepot (publik)
+        env:
+          AH_DEPLOY_KEY: ${{ secrets.AH_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$AH_DEPLOY_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null
+          git clone -q --depth 1 git@github.com:ragequitit/ah.git pub
+      - name: Bygg sidan
+        run: |
+          cd egna/site
+          AH_HOUSE=113 node build.js
+          node hamta-blizzard-meta.js
+          AH_HOUSE=113 node build.js
+          for h in $(node -e 'console.log(Object.keys(require("./markets.js").MARKETS).filter(k => k !== "113").join(" "))'); do AH_HOUSE=$h node build.js; done
+      - name: Publicera sidan
+        run: |
+          cd pub
+          git config user.name "ah-data"
+          git config user.email "ragequitit@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "sidan oförändrad"; else
+            git commit -q --amend -m "AH $(date +'%Y-%m-%d %H:%M')"
+            git push -q --force origin HEAD:main
+            echo "sidan publicerad"
+          fi
+      - name: Skriv tillbaka datan
+        run: |
+          git config user.name "ah-data"
+          git config user.email "ragequitit@users.noreply.github.com"
+          git add -A [0-9]* last meta
+          if git diff --cached --quiet; then echo "datan oförändrad"; exit 0; fi
+          git commit -q --amend -m "AH-data $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push -q --force origin HEAD:main
